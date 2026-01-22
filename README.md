@@ -26,10 +26,10 @@ Current architecture:
 3. Python code splits chapters into a CSV using Regex
      - Produces chapters.csv of the form:
 
-> | Book Title |
-> |---|
-> | Chapter 1: - info - info - info | 
-> | Chapter 2: - info - info - info |
+      | Book Title |
+      |---|
+      | Chapter 1: - info - info - info | 
+      | Chapter 2: - info - info - info |
 
 4. Iterate through the CSV's chapter list. Per chapter,
     1. Beats Planner makes a 'beats' plan, describing each chunk of what happens in the story and putting in parenthases what kind of writing it is, choosing from: **exposition**, **description**, **dialogue**, or **actions**.
