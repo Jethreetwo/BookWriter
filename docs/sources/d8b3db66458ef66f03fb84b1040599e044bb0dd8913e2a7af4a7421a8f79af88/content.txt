@@ -1,0 +1,75 @@
+Log InRegister
+ Upgrade Storage
+Home Groups Documentation Forums Get Involved
+ 
+start > dev > source_code
+Zotero Source Code
+
+Note: If you do not plan to make any code changes yourself, and only wish to run the latest prerelease versions of Zotero, you can just install a beta build.
+
+Licensing
+
+Zotero code is available under the AGPLv3 license, except where the source code specifies otherwise.
+
+Code Repositories
+Zotero Code
+
+Zotero source code is hosted on GitHub.
+
+Third-Party Components
+Component	URL
+citeproc-js	https://github.com/juris-m/citeproc-js
+Citation Style Language (CSL) styles	https://github.com/citation-style-language/styles
+Citation Style Language (CSL) locales	https://github.com/citation-style-language/locales
+Issue Tracking
+
+We don't use GitHub Issues for bug reports or feature requests regarding the Zotero client or website. Please post all such requests to the Zotero Forums, where Zotero developers and many others can help. Keeping product discussions in the Zotero Forums allows the entire Zotero community to participate, including domain experts that can address many questions better than Zotero developers. See How Zotero Support Works for more information.
+
+For confirmed bugs or agreed-upon changes, Zotero developers will create new issues in the relevant repositories.
+
+Working with the Zotero Source Code
+Zotero
+
+See Building the Desktop App.
+
+Zotero Connector
+
+To run a Git build of the Google Chrome Connector, you need to:
+
+git clone --recursive https://github.com/zotero/zotero-connectors/
+cd zotero-connectors
+npm i
+./build -d && gulp
+Run Zotero and Chrome
+Load the Connector extension in Chrome
+Browse to chrome://extensions/
+Expand the “Developer mode” bar
+Click the button “Load unpacked extension…”, and give the path to the build/browserExt directory within the local repository
+
+You should now see a Zotero icon in the address bar when visiting translatable webpages (e.g., this article or this book), and clicking the icon should add the item to your Zotero library.
+
+After making changes, click Reload for the Connector entry in the Chrome Extensions pane and reload any open pages where you want to use the Connector. (If gulp isn't running, you'll need to run ./build -d after each change.)
+
+See the Zotero Connector GitHub repo for more details.
+
+Contributing patches
+
+The preferred way to contribute code is to fork the relevant Git repository, commit your changes, and submit a pull request on GitHub.
+
+See Client Coding for more information on coding for Zotero.
+
+−Table of Contents
+Zotero Source Code
+Licensing
+Code Repositories
+Zotero Code
+Third-Party Components
+Issue Tracking
+Working with the Zotero Source Code
+Zotero
+Contributing patches
+dev/source_code.txt · Last modified: 2024/04/21 22:50 by dstillman
+Old revisions
+Blog Forums Developers Support Privacy Get Involved Jobs About
+
+Zotero is a project of Digital Scholar, a nonprofit organization dedicated to the development of software and services for researchers and cultural heritage institutions, and is developed by a global community.

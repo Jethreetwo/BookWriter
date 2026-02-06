@@ -1,0 +1,43 @@
+{
+  "bookmarks" : [
+
+  ],
+  "fileId" : "5375ba09295b7a3f373b926212d6fc68794d47c381f078d161038599b6a98823",
+  "highlights" : [
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 791957896.465168,
+      "id" : "4B638A93-4EE6-4DD1-ACBC-0CF7F8161AB3",
+      "range" : {
+        "length" : 181,
+        "location" : 2566
+      }
+    },
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 791957930.412384,
+      "id" : "B41B05B3-E76C-4866-AD73-90F4E0A2B591",
+      "range" : {
+        "length" : 20,
+        "location" : 1137
+      }
+    }
+  ],
+  "notes" : [
+    {
+      "body" : "Test",
+      "createdAt" : 791957896.465305,
+      "highlightId" : "4B638A93-4EE6-4DD1-ACBC-0CF7F8161AB3",
+      "id" : "0DCBF35D-8A37-4799-ADEA-E9870D31CEAC",
+      "range" : {
+        "length" : 181,
+        "location" : 2566
+      },
+      "title" : "he knew Dr. Kim thought she was chasing a pipe dream, that E"
+    }
+  ],
+  "pdfHighlights" : [
+
+  ],
+  "updatedAt" : 791957930.412582
+}

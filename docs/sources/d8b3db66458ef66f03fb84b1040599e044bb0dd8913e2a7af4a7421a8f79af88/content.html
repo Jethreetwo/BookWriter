@@ -1,0 +1,366 @@
+<html lang="en"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.">
+
+        <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+
+        <!-- auto discovery links -->
+        <link rel="alternate" type="application/rss+xml" title="Zotero Blog" href="http://feeds.feedburner.com/zotero/">
+<title>
+	dev:source_code [Zotero Documentation]
+</title>
+
+<meta name="generator" content="DokuWiki">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="dev,source_code">
+<link rel="search" type="application/opensearchdescription+xml" href="/support/lib/exe/opensearch.php" title="Zotero Documentation">
+<link rel="start" href="/support/">
+<link rel="contents" href="/support/dev/source_code?do=index" title="Sitemap">
+<link rel="manifest" href="/support/lib/exe/manifest.php">
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="/support/feed.php">
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/support/feed.php?mode=list&amp;ns=dev">
+<link rel="alternate" type="text/html" title="Plain HTML" href="/support/_export/xhtml/dev/source_code">
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/support/_export/raw/dev/source_code">
+<link rel="canonical" href="https://www.zotero.org/support/dev/source_code">
+<link rel="stylesheet" href="/support/lib/exe/css.php?t=zotero-theme&amp;tseed=261c84eb53110ab683121c6e8139f5c7">
+<!--[if gte IE 9]><!-->
+<script>/*<![CDATA[*/var NS='dev';var JSINFO = {"toc":{"initial_state":1},"id":"dev:source_code","namespace":"dev","ACT":"show","useHeadingNavigation":0,"useHeadingContent":0};
+/*!]]>*/</script>
+<script src="/support/lib/exe/jquery.php?tseed=f0349b609f9b91a485af8fd8ecd4aea4" defer="defer">/*<![CDATA[*/
+/*!]]>*/</script>
+<script src="/support/lib/exe/js.php?t=zotero-theme&amp;tseed=261c84eb53110ab683121c6e8139f5c7" defer="defer">/*<![CDATA[*/
+/*!]]>*/</script>
+<!--<![endif]-->
+
+<!-- css -->
+    <link rel="stylesheet" href="/static/css/style.1698016953.css" type="text/css" media="screen" charset="utf-8">
+    <script type="text/javascript" charset="utf-8">
+        if(typeof zoteroData == 'undefined'){
+            var zoteroData = {};
+        }
+        var baseURL = "";
+        var staticPath = "/static";
+        var baseDomain = "https://www.zotero.org";
+        var nonZendPage = true;
+
+                    let zoterojsSearchContext = "documentation";
+            let initializeSearch = function() {
+                let searchForm = document.getElementById('simple-search');
+                searchForm.addEventListener('submit', function(evt) {
+                    evt.preventDefault();
+                    let searchBox = document.getElementById('header-search-query');
+                    let query = searchBox.value;
+                    let q = encodeURIComponent(query + " site:www.zotero.org/support");
+                    let url = "https://duckduckgo.com/?q=" + q;
+                    window.location = url;
+                })
+            };
+            if(document.readyState === 'interactive' || document.readyState === 'complete'){
+                initializeSearch();
+            } else {
+                document.onreadystatechange = () => {
+                    if (document.readyState === 'interactive' || document.readyState === 'complete') {
+                        initializeSearch();
+                    }
+                };
+            }
+            </script>
+<style>.village-iframe{width:100%;height:100%;border:none;display:block;position:fixed;top:0;left:0;z-index:2147483647;background:#0000003d;color-scheme:light}.village-iframe.village-loading{display:flex;justify-content:center;align-items:center}.village-iframe>.village-spinner{width:1.5rem;height:1.5rem;border:2px solid #000;border-left-color:transparent;border-bottom-color:transparent;border-radius:50%;animation:spin .45s linear infinite}.village-iframe.village-hidden{display:none}@keyframes spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}.village-hidden{display:none}[village-paths-data=facepiles]{display:flex;align-items:center;padding-right:.5rem}[village-paths-data=facepiles] img{width:1.5rem;height:1.5rem;border-radius:50%;margin-right:-.5rem}[village-paths-data=facepiles] img.village-facepiler-avatar-not-found{filter:blur(7px)}[village-paths-data=facepiles] img:last-child{margin-right:0}[village-paths-data=count]{padding-right:.25rem}[village-paths-availability=error],[village-paths-availability=found],[village-paths-availability=not-found],[village-paths-availability=not-activated]{display:none!important}[village-paths-availability=loading]{display:inline-flex!important}</style><script id="simplify-jobs-page-script" src="chrome-extension://pbanhockgagggenencehbnadejlgchfc/js/pageScript.bundle.js"></script></head>
+
+<body class="dokuwiki">
+        <!-- Header -->
+    <header role="banner" class="container">
+        <div class="center container">
+                                    
+            <h1 id="logohead">
+            <a href="/"><img src="/static/images/theme/zotero-logo.1519224037.svg" alt="Zotero"></a>
+        </h1>
+
+        <div id="login-links">
+                            <a href="/user/login/">Log In</a>
+                <a href="/user/register">Register</a>
+                    </div>
+        
+                    <a href="/storage" class="button" id="purchase-storage-link"><img src="/static/images/theme/archive.png"> Upgrade Storage</a>
+                
+        <div id="navbar" class="container">
+        <nav id="sitenav">
+                        <ul>
+            <li><a href="/">Home</a></li>
+                        <li><a href="/groups/">Groups</a></li>
+                        <li class="selected"><a href="/support/">Documentation</a></li>
+            <li><a href="https://forums.zotero.org/categories/">Forums</a></li>
+            <li><a href="/getinvolved/">Get Involved</a></li>
+        </ul>
+        </nav>
+                <form action="https://www.zotero.org/search/" id="simple-search">
+            <div>
+                <input type="text" name="q" size="20" id="header-search-query">
+                <input type="submit" class="button" value="Search">
+            </div>
+        </form>
+                </div>
+        </div>
+    </header>
+    <div id="content">
+        <div class="center container">
+<div class="dokuwiki container">
+	
+		<div id="breadcrumbs">
+		<span class="bchead">You are here: </span><span class="home"><bdi><a href="/support/start" class="wikilink1" title="start" data-wiki-id="start">start</a></bdi></span> &gt; <bdi><a href="/support/dev/start" class="wikilink1" title="dev:start" data-wiki-id="dev:start">dev</a></bdi> &gt; <bdi><span class="curid"><a href="/support/dev/source_code" class="wikilink1" title="dev:source_code" data-wiki-id="dev:source_code">source_code</a></span></bdi>	</div>
+		<div class="stylehead">
+
+		<div class="header">
+				<div class="pagename">
+									</div>
+		</div>
+
+		
+	</div>
+	
+	<div class="page major-col">
+		
+		<!-- wikipage start -->
+		
+<h1 class="sectionedit1" id="zotero_source_code">Zotero Source Code</h1>
+<div class="level1">
+
+<p>
+<strong>Note:</strong> If you do not plan to make any code changes yourself, and only wish to run the latest prerelease versions of Zotero, you can just install a <a href="/support/beta_builds" class="wikilink1" title="/support/beta_builds">beta build</a>.
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="licensing">Licensing</h2>
+<div class="level2">
+
+<p>
+Zotero code is available under the <a href="http://www.gnu.org/licenses/agpl.html" class="urlextern" title="http://www.gnu.org/licenses/agpl.html" rel="ugc nofollow">AGPLv3</a> license, except where the source code specifies otherwise.
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="code_repositories">Code Repositories</h2>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit4" id="zotero_code">Zotero Code</h3>
+<div class="level3">
+
+<p>
+Zotero source code is hosted <a href="https://github.com/zotero" class="urlextern" title="https://github.com/zotero" rel="ugc nofollow">on GitHub</a>.
+</p>
+
+</div>
+
+<h3 class="sectionedit5" id="third-party_components">Third-Party Components</h3>
+<div class="level3">
+<div class="table sectionedit6"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0"> Component </th><th class="col1"> <abbr title="Uniform Resource Locator">URL</abbr> </th>
+	</tr>
+	</thead>
+	<tbody><tr class="row1">
+		<td class="col0"><a href="http://gsl-nagoya-u.net/http/pub/citeproc-doc.html" class="urlextern" title="http://gsl-nagoya-u.net/http/pub/citeproc-doc.html" rel="ugc nofollow">citeproc-js</a></td><td class="col1"><a href="https://github.com/juris-m/citeproc-js" class="urlextern" title="https://github.com/juris-m/citeproc-js" rel="ugc nofollow">https://github.com/juris-m/citeproc-js</a></td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"><a href="http://citationstyles.org" class="urlextern" title="http://citationstyles.org" rel="ugc nofollow">Citation Style Language (CSL)</a> styles</td><td class="col1"><a href="https://github.com/citation-style-language/styles" class="urlextern" title="https://github.com/citation-style-language/styles" rel="ugc nofollow">https://github.com/citation-style-language/styles</a></td>
+	</tr>
+	<tr class="row3">
+		<td class="col0"><a href="http://citationstyles.org" class="urlextern" title="http://citationstyles.org" rel="ugc nofollow">Citation Style Language (CSL)</a> locales</td><td class="col1"><a href="https://github.com/citation-style-language/locales" class="urlextern" title="https://github.com/citation-style-language/locales" rel="ugc nofollow">https://github.com/citation-style-language/locales</a></td>
+	</tr>
+</tbody></table></div>
+
+</div>
+
+<h2 class="sectionedit7" id="issue_tracking">Issue Tracking</h2>
+<div class="level2">
+
+<p>
+We don't use GitHub Issues for bug reports or feature requests regarding the Zotero client or website. Please post all such requests to the <a href="/forum" class="wikilink1" title="/forum">Zotero Forums</a>, where Zotero developers and many others can help. Keeping product discussions in the Zotero Forums allows the entire Zotero community to participate, including domain experts that can address many questions better than Zotero developers. See <a href="/support/zotero_support" class="wikilink1" title="zotero_support" data-wiki-id="zotero_support">How Zotero Support Works</a> for more information.
+</p>
+
+<p>
+For confirmed bugs or agreed-upon changes, Zotero developers will create new issues in the relevant repositories.
+</p>
+
+</div>
+
+<h2 class="sectionedit8" id="working_with_the_zotero_source_code">Working with the Zotero Source Code</h2>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit9" id="zotero">Zotero</h3>
+<div class="level3">
+
+<p>
+See <a href="/support/dev/client_coding/building_the_desktop_app" class="wikilink1" title="dev:client_coding:building_the_desktop_app" data-wiki-id="dev:client_coding:building_the_desktop_app">Building the Desktop App</a>.
+</p>
+
+</div>
+
+<h4 id="zotero_connector">Zotero Connector</h4>
+<div class="level4">
+
+<p>
+To run a Git build of the Google Chrome Connector, you need to:
+</p>
+<ul>
+<li class="level1"><div class="li"> <code>git clone --recursive https://github.com/zotero/zotero-connectors/</code></div>
+</li>
+<li class="level1"><div class="li"> <code>cd zotero-connectors</code></div>
+</li>
+<li class="level1"><div class="li"> <code>npm i</code></div>
+</li>
+<li class="level1"><div class="li"> <code>./build -d &amp;&amp; gulp</code></div>
+</li>
+<li class="level1"><div class="li"> Run Zotero and Chrome</div>
+</li>
+<li class="level1 node"><div class="li"> Load the Connector extension in Chrome</div>
+<ol>
+<li class="level2"><div class="li"> Browse to chrome://extensions/</div>
+</li>
+<li class="level2"><div class="li"> Expand the “Developer mode” bar</div>
+</li>
+<li class="level2"><div class="li"> Click the button “Load unpacked extension…”, and give the path to the <code>build/browserExt</code>  directory within the local repository</div>
+</li>
+</ol>
+</li>
+</ul>
+
+<p>
+You should now see a Zotero icon in the address bar when visiting translatable webpages (e.g., <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014784" class="urlextern" title="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JC014784" rel="ugc nofollow">this article</a> or <a href="http://www.amazon.com/gp/product/B002B3YBZO/ref=s9_pop_gw_ir03/190-5343882-9824666?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-2&amp;pf_rd_r=00JVFZE24KQ87CV9QJ59&amp;pf_rd_t=101&amp;pf_rd_p=1263340922&amp;pf_rd_i=507846" class="urlextern" title="http://www.amazon.com/gp/product/B002B3YBZO/ref=s9_pop_gw_ir03/190-5343882-9824666?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-2&amp;pf_rd_r=00JVFZE24KQ87CV9QJ59&amp;pf_rd_t=101&amp;pf_rd_p=1263340922&amp;pf_rd_i=507846" rel="ugc nofollow">this book</a>), and clicking the icon should add the item to your Zotero library.
+</p>
+
+<p>
+After making changes, click Reload for the Connector entry in the Chrome Extensions pane and reload any open pages where you want to use the Connector. (If <code>gulp</code> isn't running, you'll need to run <code>./build -d</code> after each change.)
+</p>
+
+<p>
+See the <a href="https://github.com/zotero/zotero-connectors" class="urlextern" title="https://github.com/zotero/zotero-connectors" rel="ugc nofollow">Zotero Connector GitHub repo</a> for more details.
+</p>
+
+</div>
+
+<h3 class="sectionedit10" id="contributing_patches">Contributing patches</h3>
+<div class="level3">
+
+<p>
+The preferred way to contribute code is to fork the relevant Git repository, commit your changes, and submit a pull request on GitHub.
+</p>
+
+<p>
+See <a href="/support/dev/client_coding" class="wikilink1" title="dev:client_coding" data-wiki-id="dev:client_coding">Client Coding</a> for more information on coding for Zotero.
+</p>
+
+</div>
+
+		<!-- wikipage stop -->
+	</div>
+
+
+	
+	<div class="stylefoot minor-col">
+		<div class="meta">
+			<div class="nav">
+				<!-- TOC START -->
+<div id="dw__toc" class="dw__toc">
+<h3 class="toggle open" style="cursor: pointer;"><strong><span>−</span></strong>Table of Contents</h3>
+<div style="" aria-expanded="true">
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#zotero_source_code">Zotero Source Code</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#licensing">Licensing</a></div></li>
+<li class="level2"><div class="li"><a href="#code_repositories">Code Repositories</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#zotero_code">Zotero Code</a></div></li>
+<li class="level3"><div class="li"><a href="#third-party_components">Third-Party Components</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#issue_tracking">Issue Tracking</a></div></li>
+<li class="level2"><div class="li"><a href="#working_with_the_zotero_source_code">Working with the Zotero Source Code</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#zotero">Zotero</a></div></li>
+<li class="level3"><div class="li"><a href="#contributing_patches">Contributing patches</a></div></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+			</div>
+			
+			<div class="user-info">
+								</div>
+			<div class="page-info">
+				<bdi>dev/source_code.txt</bdi> · Last modified: 2024/04/21 22:50 by <bdi>dstillman</bdi>			</div>
+		</div>
+
+		<div class="bar" id="bar__bottom">
+			<div class="bar-left" id="bar__bottomleft">
+				<ul class="page-menu"><li><a href="/support/dev/source_code?do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o" class="zmenuitem revs">Old revisions</a></li></ul>				<ul class="wiki-menu"></ul><ul class="user-menu"></ul>			</div>
+					</div>
+
+	</div>
+
+</div>
+
+<div class="footerinc">
+
+
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+   <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <requires rdf:resource="http://web.resource.org/cc/Notice" />
+   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+   <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+   <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+</License>
+
+</rdf:RDF>
+
+-->
+
+
+</div>
+
+<div class="no"><img src="/support/lib/exe/taskrunner.php?id=dev%3Asource_code&amp;1770355101" width="2" height="1" alt=""></div>
+        </div>
+    </div>
+    <footer>
+        <div class="center container">
+            <nav role="secondary">
+            <ul>
+                <li><a href="/blog/">Blog</a></li>
+                <li><a href="https://forums.zotero.org/categories/">Forums</a></li>
+                <li><a href="/support/dev/start">Developers</a></li>
+                <li><a href="/support/">Support</a></li>
+                <li><a href="/support/privacy">Privacy</a></li>
+                <li><a href="/getinvolved/">Get Involved</a></li>
+                <li><a href="/jobs">Jobs</a></li>
+                <li class="last"><a href="/about/">About</a></li>
+            </ul>
+            </nav>
+            <p class="about">Zotero is a project of <a href="http://digitalscholar.org/">Digital Scholar</a>, a nonprofit organization dedicated to the development of software and services for researchers and cultural heritage institutions, and is developed by a <a href="/support/credits_and_acknowledgments">global community</a>.</p>
+        </div><!-- End footer -->
+        </footer>
+    
+
+<div id="extension-begak"></div></body></html>
