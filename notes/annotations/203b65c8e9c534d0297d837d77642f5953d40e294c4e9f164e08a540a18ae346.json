@@ -4,7 +4,15 @@
   ],
   "fileId" : "203b65c8e9c534d0297d837d77642f5953d40e294c4e9f164e08a540a18ae346",
   "highlights" : [
-
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 792110634.512134,
+      "id" : "47B3F5B8-50AE-4F85-8D6A-A797A562A33E",
+      "range" : {
+        "length" : 91,
+        "location" : 4
+      }
+    }
   ],
   "notes" : [
 
