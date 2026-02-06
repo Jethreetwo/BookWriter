@@ -102,6 +102,15 @@
         "length" : 9,
         "location" : 431
       }
+    },
+    {
+      "colorHex" : "#FFCC8C",
+      "createdAt" : 792113951.680632,
+      "id" : "E1CACA8B-B786-4401-9949-BD63611AD608",
+      "range" : {
+        "length" : 7,
+        "location" : 453
+      }
     }
   ],
   "notes" : [
@@ -170,10 +179,21 @@
         "location" : 431
       },
       "title" : ""
+    },
+    {
+      "body" : "Note about adorned",
+      "createdAt" : 792113951.680801,
+      "highlightId" : "E1CACA8B-B786-4401-9949-BD63611AD608",
+      "id" : "9926191F-BCC6-4AC6-85E8-BC9DFFFE3CA1",
+      "range" : {
+        "length" : 7,
+        "location" : 453
+      },
+      "title" : ""
     }
   ],
   "pdfHighlights" : [
 
   ],
-  "updatedAt" : 792112575.83837
+  "updatedAt" : 792113951.680849
 }
