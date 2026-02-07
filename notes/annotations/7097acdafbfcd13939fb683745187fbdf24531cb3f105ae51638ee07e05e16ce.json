@@ -111,6 +111,15 @@
         "length" : 7,
         "location" : 453
       }
+    },
+    {
+      "colorHex" : "#FFCC8C",
+      "createdAt" : 792113962.579903,
+      "id" : "374B7EDD-DDE6-4307-974C-CDD776058E83",
+      "range" : {
+        "length" : 7,
+        "location" : 453
+      }
     }
   ],
   "notes" : [
@@ -190,10 +199,21 @@
         "location" : 453
       },
       "title" : ""
+    },
+    {
+      "body" : "Test note",
+      "createdAt" : 792113962.580065,
+      "highlightId" : "374B7EDD-DDE6-4307-974C-CDD776058E83",
+      "id" : "36785B2A-3756-46EE-A57C-9379211F6E0E",
+      "range" : {
+        "length" : 7,
+        "location" : 453
+      },
+      "title" : ""
     }
   ],
   "pdfHighlights" : [
 
   ],
-  "updatedAt" : 792113951.680849
+  "updatedAt" : 792113962.580123
 }
