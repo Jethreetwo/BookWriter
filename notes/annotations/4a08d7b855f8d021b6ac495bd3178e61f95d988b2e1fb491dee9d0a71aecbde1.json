@@ -1,0 +1,64 @@
+{
+  "bookmarks" : [
+
+  ],
+  "fileId" : "4a08d7b855f8d021b6ac495bd3178e61f95d988b2e1fb491dee9d0a71aecbde1",
+  "highlights" : [
+
+  ],
+  "notes" : [
+    {
+      "body" : "test",
+      "createdAt" : 792050435.656054,
+      "highlightId" : "BF8D084A-7871-4CF3-96EF-226198910F9E",
+      "id" : "488C6B2F-543C-4053-AB76-EBD2C5C3D088",
+      "pdfBounds" : [
+        [
+          183.21735,
+          155.32365
+        ],
+        [
+          248.2114125,
+          22.23585
+        ]
+      ],
+      "pdfPageIndex" : 0,
+      "title" : ""
+    }
+  ],
+  "pdfHighlights" : [
+    {
+      "bounds" : [
+        [
+          127.41352499999999,
+          378.82365
+        ],
+        [
+          80.24144999999999,
+          22.23584999999997
+        ]
+      ],
+      "colorHex" : "#FFD76A",
+      "createdAt" : 792050431.720148,
+      "id" : "4FAFC972-C6C0-40EF-A796-0203CE6D502C",
+      "pageIndex" : 0
+    },
+    {
+      "bounds" : [
+        [
+          183.21735,
+          155.32365
+        ],
+        [
+          248.2114125,
+          22.23585
+        ]
+      ],
+      "colorHex" : "#FFCC8C",
+      "createdAt" : 792050435.655951,
+      "id" : "BF8D084A-7871-4CF3-96EF-226198910F9E",
+      "pageIndex" : 0
+    }
+  ],
+  "updatedAt" : 792050435.656119
+}
