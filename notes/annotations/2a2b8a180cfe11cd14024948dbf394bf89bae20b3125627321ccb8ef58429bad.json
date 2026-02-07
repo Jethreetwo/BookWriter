@@ -1,0 +1,101 @@
+{
+  "bookmarks" : [
+    {
+      "createdAt" : 791936954.987482,
+      "id" : "29D265D7-6544-431B-9BC5-322433649179",
+      "offset" : 5158,
+      "title" : "Bookmark at 5158"
+    },
+    {
+      "createdAt" : 791937012.121987,
+      "id" : "EF239FED-4631-4B1F-8689-11F4F3F7719A",
+      "offset" : 3703,
+      "title" : "Bookmark at 3703"
+    },
+    {
+      "createdAt" : 791943180.869812,
+      "id" : "7F7D771B-F2B1-4AA9-B050-FD11B651362B",
+      "offset" : 806,
+      "title" : "- We see glimpses of Lyra's past, hinting at a los"
+    },
+    {
+      "createdAt" : 791943192.801015,
+      "id" : "FEB258A3-9DF5-4048-B6DD-CA6A2E350D17",
+      "offset" : 4202,
+      "title" : " Lyra must decide whether to join forc"
+    },
+    {
+      "createdAt" : 791943776.413196,
+      "id" : "EA287674-6947-494B-8258-BB8C07ABB0F6",
+      "offset" : 638,
+      "title" : "n her lips, memories of"
+    },
+    {
+      "createdAt" : 791943784.163362,
+      "id" : "D7F0F68A-1FEB-4CA5-AEB1-AF42AC260B86",
+      "offset" : 713,
+      "title" : " She dismisses the dreams as mere fantasy, but the"
+    },
+    {
+      "createdAt" : 791943790.63054,
+      "id" : "E0EEA7F3-DF59-4090-84DA-75C54D756D89",
+      "offset" : 973,
+      "title" : "#### Chapter 3: The Government's Secret\n          "
+    }
+  ],
+  "fileId" : "2a2b8a180cfe11cd14024948dbf394bf89bae20b3125627321ccb8ef58429bad",
+  "highlights" : [
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 791943194.579986,
+      "id" : "7F4D1719-466B-4343-ABC5-4F7807CD4CFF",
+      "range" : {
+        "length" : 22,
+        "location" : 4039
+      }
+    },
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 791943752.512835,
+      "id" : "7A810A15-5C43-4A8B-A902-F85D0A1B0FBF",
+      "range" : {
+        "length" : 15,
+        "location" : 23
+      }
+    },
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 791943756.133968,
+      "id" : "00141851-66AD-4A4F-93EA-877975805168",
+      "range" : {
+        "length" : 14,
+        "location" : 76
+      }
+    },
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 791943762.678972,
+      "id" : "F44B9597-9810-4F40-9EB8-0B8B9188424C",
+      "range" : {
+        "length" : 68,
+        "location" : 129
+      }
+    },
+    {
+      "colorHex" : "#FFF2B2",
+      "createdAt" : 791943772.851786,
+      "id" : "98D72DCC-1F20-4F65-A273-5A62D9E20F21",
+      "range" : {
+        "length" : 25,
+        "location" : 580
+      }
+    }
+  ],
+  "notes" : [
+
+  ],
+  "pdfHighlights" : [
+
+  ],
+  "updatedAt" : 791943790.630577
+}
