@@ -1,4 +1,4 @@
-# # # The Erasure of the Ocean
+# # # # The Erasure of the Ocean
 
                     #### Chapter 1: The Mapmaker's Routine
 - We meet our protagonist, Lyra, a skilled but disillusioned mapmaker who has given up on questioning the official narrative about the ocean.

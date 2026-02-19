@@ -24,6 +24,24 @@
       ],
       "pdfPageIndex" : 0,
       "title" : ""
+    },
+    {
+      "body" : "Tbh agree with this",
+      "createdAt" : 792052151.850848,
+      "highlightId" : "2F5ECE82-F3BA-4F6F-90F0-6D64D1DCB885",
+      "id" : "1C595709-12C5-4061-B740-1F8956CEB432",
+      "pdfBounds" : [
+        [
+          216.52335,
+          743.32365
+        ],
+        [
+          271.412175,
+          22.235850000000028
+        ]
+      ],
+      "pdfPageIndex" : 1,
+      "title" : ""
     }
   ],
   "pdfHighlights" : [
@@ -58,7 +76,23 @@
       "createdAt" : 792050435.655951,
       "id" : "BF8D084A-7871-4CF3-96EF-226198910F9E",
       "pageIndex" : 0
+    },
+    {
+      "bounds" : [
+        [
+          216.52335,
+          743.32365
+        ],
+        [
+          271.412175,
+          22.235850000000028
+        ]
+      ],
+      "colorHex" : "#FFCC8C",
+      "createdAt" : 792052151.850727,
+      "id" : "2F5ECE82-F3BA-4F6F-90F0-6D64D1DCB885",
+      "pageIndex" : 1
     }
   ],
-  "updatedAt" : 792050435.656119
+  "updatedAt" : 792052367.482479
 }

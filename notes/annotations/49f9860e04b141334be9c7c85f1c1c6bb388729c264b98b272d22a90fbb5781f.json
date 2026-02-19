@@ -1,0 +1,52 @@
+{
+  "bookmarks" : [
+
+  ],
+  "fileId" : "49f9860e04b141334be9c7c85f1c1c6bb388729c264b98b272d22a90fbb5781f",
+  "highlights" : [
+    {
+      "colorHex" : "#FFD76A",
+      "createdAt" : 792052820.388341,
+      "id" : "765FBF98-56D1-44FF-B01C-655E3306D1F7",
+      "range" : {
+        "length" : 10,
+        "location" : 6
+      }
+    },
+    {
+      "colorHex" : "#FFD76A",
+      "createdAt" : 792052821.997383,
+      "id" : "805702EF-9D85-43FF-AB63-9568805AF12A",
+      "range" : {
+        "length" : 4,
+        "location" : 38
+      }
+    },
+    {
+      "colorHex" : "#FFCC8C",
+      "createdAt" : 792052825.677853,
+      "id" : "24B6E8D8-F5CC-4D83-A894-70E9D4E79316",
+      "range" : {
+        "length" : 5,
+        "location" : 53
+      }
+    }
+  ],
+  "notes" : [
+    {
+      "body" : "Note",
+      "createdAt" : 792052825.677972,
+      "highlightId" : "24B6E8D8-F5CC-4D83-A894-70E9D4E79316",
+      "id" : "B2266C92-1A0C-4370-9635-917A98C85EC1",
+      "range" : {
+        "length" : 5,
+        "location" : 53
+      },
+      "title" : ""
+    }
+  ],
+  "pdfHighlights" : [
+
+  ],
+  "updatedAt" : 792052825.678022
+}

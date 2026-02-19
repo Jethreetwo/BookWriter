@@ -1,0 +1,3206 @@
+Skip to main content
+Skip to footer
+Research
+Economic Futures
+Commitments
+Learn
+News
+Try Claude
+Anthropic Economic Index
+Understanding AI’s effects on the economy
+
+Last updated: Jan 15, 2026
+
+Anthropic Economic Index
+
+Understanding AI's effects on the economy
+
+Last updated Jan 15, 2026
+
+US usage
+
+State usage
+
+Global usage
+
+Country usage
+
+Job explorer
+
+Anthropic Economic Index Report
+
+See the analysis behind the numbers and what these patterns reveal about AI’s economic impact.
+
+Read the report
+
+Download dataset
+
+Get email updates
+
+Usage Index
+
+Understand if a state uses Claude more (>1) or less (<1) than expected, based on its population.
+Leading (top 25%)
+Upper middle (50-75%)
+Lower middle (25-50%)
+Emerging (bottom 25%)
+
+Augmentation vs. automation
+
+See how people prefer to work with Claude—collaborating together or fully delegating tasks.
+
+Top industries
+
+Track which jobs are using Claude the most.
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+DC
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+ Explore the map to see how people are using Claude.ai in each state
+1.
+Washington, D.C.
+4.00
+2.
+New York
+2.68
+3.
+Massachusetts
+1.60
+4.
+California
+1.48
+5.
+Colorado
+1.41
+6.
+Washington
+1.36
+7.
+Virginia
+1.34
+8.
+Vermont
+1.13
+9.
+Oregon
+1.11
+10.
+Utah
+1.07
+Washington, D.C.
+1 / 50
+Usage rank 
+DC
+4.00x
+Usage Index 
+4.00
+Expected: 1
+Total # of observations: 2,003
+Most frequent
+Most distinctive
+
+The most common topics in Washington, D.C..
+
+1.
+Complete humanities and social science academic assignments across multiple disciplines
+5.6%
+2.
+Assist with job searching, career planning, and professional development
+5.4%
+3.
+Complete academic assignments and create educational materials across all subjects
+5.2%
+4.
+Draft and revise professional workplace correspondence and business communications
+4.6%
+5.
+Assist with business planning, strategy, and entrepreneurial development
+3.4%
+6.
+Proofread, edit, and correct written documents and communications
+2.9%
+7.
+Help research, compare, and select consumer products for purchasing decisions
+2.5%
+8.
+Create and optimize social media content and marketing strategies
+2.4%
+9.
+Research government, political, educational, and defense information and policies
+2.3%
+Back
+View more
+How people are using Claude
+Click a tile to drill into more granular data
+Group by job
+Group by category
+Categorized using O*NET-SOC codes
+Educational Instruction and Library
+8.4%
+Computer and Mathematical
+7.5%
+Arts, Design, Entertainment, Sports, and Media
+4.1%
+Community and Social Service
+3.1%
+Office and Administrative Support
+2.5%
+
+Percentages represent the share of Claude.ai conversations associated with each task or group of tasks. Graphic shows what people do with Claude, not their job titles. Percentages don't sum to 100% because we impose privacy filters.
+
+Usage Index
+
+Understand if a country uses Claude more (>1) or less (<1) than expected, based on its population.
+Leading (top 25%)
+Upper middle (50-75%)
+Lower middle (25-50%)
+Emerging (bottom 25%)
+Minimal
+
+Augmentation vs. automation
+
+See how people prefer to work with Claude—collaborating together or fully delegating tasks.
+
+Top Industries
+
+Explore Claude usage by industry across countries.
+Explore the map to see how people are using Claude.ai in each country
+
+The world map shows data on Claude.ai conversations. The world map is based on Natural Earth's world map with the ISO standard point of view for disputed territories, which means that the map may not contain some disputed territories. We note that in addition to the countries shown in gray ('Claude not available'), we do not operate in the Ukrainian regions Crimea, Donetsk, Kherson, Luhansk, and Zaporizhzhia. In accordance with international sanctions and our commitment to supporting Ukraine's territorial integrity, our services are not available in areas under Russian occupation.
+
+Countries in view
+Israel
+4.90
+United States
+3.69
+Switzerland
+3.21
+Luxembourg
+3.07
+France
+2.66
+Malta
+2.63
+The Netherlands
+2.61
+Ireland
+2.39
+Portugal
+2.23
+Belgium
+2.17
+Australia
+4 / 116
+Usage rank 
+AUS
+3.27x
+Usage Index 
+3.27
+Expected: 1
+Total # of observations: 15.5k
+Most frequent
+Most distinctive
+
+The most common topics in Australia.
+
+1.
+Complete academic assignments and create educational materials across all subjects
+4.4%
+Back
+View more
+How people are using Claude
+Click a tile to drill into more granular data
+Group by job
+Group by category
+Categorized using O*NET-SOC codes
+Computer and Mathematical
+20.2%
+Educational Instruction and Library
+10.7%
+Arts, Design, Entertainment, Sports, and Media
+7.0%
+Office and Administrative Support
+6.0%
+
+Percentages represent the share of Claude.ai conversations associated with each task or group of tasks. Graphic shows what people do with Claude, not their job titles. Percentages don’t sum to 100% because we impose privacy filters.
+
+Explore by job
+
+People use AI to automate certain parts of their jobs, like data entry. When exploring problems or ideas, Claude becomes a collaborative partner instead. Other tasks remain firmly in human hands.
+
+We've grouped task data into job titles based on a standard called O*NET classification. Hover over the squares for a detailed breakdown.
+Mostly automated tasks
+Mostly augmented tasks
+Tasks that don't appear in our data
+Sort By
+Usage Rank
+974 occupations
+Software Developers, Applications
+Computer and Mathematical
+7.08% usage
+Computer Programmers
+Computer and Mathematical
+4.14% usage
+Data Warehousing Specialists
+Computer and Mathematical
+3.85% usage
+Web Developers
+Computer and Mathematical
+3.35% usage
+Software Developers, Systems Software
+Computer and Mathematical
+2.95% usage
+Tutors
+Educational Instruction and Library
+2.92% usage
+Bioinformatics Technicians
+Office and Administrative Support
+2.46% usage
+Computer Systems Analysts
+Computer and Mathematical
+2.04% usage
+Network and Computer Systems Administrators
+Computer and Mathematical
+1.90% usage
+English Language and Literature Teachers, Postsecondary
+Educational Instruction and Library
+1.71% usage
+Editors
+Arts, Design, Entertainment, Sports, and Media
+1.55% usage
+Poets, Lyricists and Creative Writers
+Arts, Design, Entertainment, Sports, and Media
+1.48% usage
+Biological Science Teachers, Postsecondary
+Educational Instruction and Library
+1.43% usage
+Technical Writers
+Arts, Design, Entertainment, Sports, and Media
+1.31% usage
+Educational, Guidance, School, and Vocational Counselors
+Community and Social Service
+1.31% usage
+Office Clerks, General
+Office and Administrative Support
+1.27% usage
+Instructional Designers and Technologists
+Educational Instruction and Library
+1.24% usage
+Software Quality Assurance Engineers and Testers
+Computer and Mathematical
+1.17% usage
+Copy Writers
+Arts, Design, Entertainment, Sports, and Media
+1.14% usage
+Instructional Coordinators
+Educational Instruction and Library
+1.12% usage
+Clinical Psychologists
+Life, Physical, and Social Science
+0.94% usage
+Database Administrators
+Computer and Mathematical
+0.90% usage
+Actors
+Arts, Design, Entertainment, Sports, and Media
+0.89% usage
+Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+Office and Administrative Support
+0.82% usage
+Computer Systems Engineers/Architects
+Computer and Mathematical
+0.77% usage
+Interpreters and Translators
+Arts, Design, Entertainment, Sports, and Media
+0.71% usage
+Database Architects
+Computer and Mathematical
+0.68% usage
+Web Administrators
+Computer and Mathematical
+0.65% usage
+Cashiers
+Sales and Related
+0.64% usage
+Adult Basic and Secondary Education and Literacy Teachers and Instructors
+Educational Instruction and Library
+0.64% usage
+Foreign Language and Literature Teachers, Postsecondary
+Educational Instruction and Library
+0.60% usage
+Mental Health Counselors
+Community and Social Service
+0.58% usage
+Multimedia Artists and Animators
+Arts, Design, Entertainment, Sports, and Media
+0.55% usage
+Vocational Education Teachers, Postsecondary
+Educational Instruction and Library
+0.50% usage
+Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+Sales and Related
+0.49% usage
+Clergy
+Community and Social Service
+0.48% usage
+Search Marketing Strategists
+Computer and Mathematical
+0.48% usage
+Bioinformatics Scientists
+Life, Physical, and Social Science
+0.47% usage
+Computer and Information Research Scientists
+Computer and Mathematical
+0.46% usage
+Historians
+Life, Physical, and Social Science
+0.44% usage
+Advertising and Promotions Managers
+Management
+0.41% usage
+Operations Research Analysts
+Computer and Mathematical
+0.37% usage
+Word Processors and Typists
+Office and Administrative Support
+0.36% usage
+Public Relations Specialists
+Arts, Design, Entertainment, Sports, and Media
+0.36% usage
+Industrial-Organizational Psychologists
+Life, Physical, and Social Science
+0.35% usage
+Social Science Research Assistants
+Life, Physical, and Social Science
+0.35% usage
+Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic
+Production
+0.34% usage
+Dietitians and Nutritionists
+Healthcare Practitioners and Technical
+0.33% usage
+Nursery Workers
+Farming, Fishing, and Forestry
+0.33% usage
+Video Game Designers
+Computer and Mathematical
+0.33% usage
+Self-Enrichment Education Teachers
+Educational Instruction and Library
+0.32% usage
+Personal Financial Advisors
+Business and Financial Operations
+0.32% usage
+Computer Hardware Engineers
+Architecture and Engineering
+0.31% usage
+Credit Counselors
+Business and Financial Operations
+0.30% usage
+Computer Operators
+Office and Administrative Support
+0.30% usage
+Computer, Automated Teller, and Office Machine Repairers
+Installation, Maintenance, and Repair
+0.30% usage
+Chief Executives
+Management
+0.30% usage
+Correspondence Clerks
+Office and Administrative Support
+0.28% usage
+First-Line Supervisors of Office and Administrative Support Workers
+Office and Administrative Support
+0.28% usage
+Computer Network Support Specialists
+Computer and Mathematical
+0.28% usage
+Computer User Support Specialists
+Computer and Mathematical
+0.28% usage
+Executive Secretaries and Executive Administrative Assistants
+Office and Administrative Support
+0.28% usage
+Retail Salespersons
+Sales and Related
+0.28% usage
+Graduate Teaching Assistants
+Educational Instruction and Library
+0.26% usage
+Document Management Specialists
+Computer and Mathematical
+0.25% usage
+Public Relations and Fundraising Managers
+Management
+0.25% usage
+Librarians
+Educational Instruction and Library
+0.24% usage
+Statisticians
+Computer and Mathematical
+0.24% usage
+Investment Fund Managers
+Management
+0.24% usage
+Real Estate Sales Agents
+Sales and Related
+0.24% usage
+Reporters and Correspondents
+Arts, Design, Entertainment, Sports, and Media
+0.23% usage
+Mathematicians
+Computer and Mathematical
+0.22% usage
+Personal Care Aides
+Personal Care and Service
+0.22% usage
+Market Research Analysts and Marketing Specialists
+Business and Financial Operations
+0.22% usage
+Sales Agents, Securities and Commodities
+Sales and Related
+0.22% usage
+Pharmacists
+Healthcare Practitioners and Technical
+0.22% usage
+Political Scientists
+Life, Physical, and Social Science
+0.21% usage
+Online Merchants
+Business and Financial Operations
+0.21% usage
+Archivists
+Educational Instruction and Library
+0.21% usage
+Spa Managers
+Personal Care and Service
+0.21% usage
+Security Managers
+Management
+0.21% usage
+Agents and Business Managers of Artists, Performers, and Athletes
+Business and Financial Operations
+0.20% usage
+Fitness and Wellness Coordinators
+Management
+0.20% usage
+Recreation and Fitness Studies Teachers, Postsecondary
+Educational Instruction and Library
+0.20% usage
+Advanced Practice Psychiatric Nurses
+Healthcare Practitioners and Technical
+0.20% usage
+Reservation and Transportation Ticket Agents and Travel Clerks
+Office and Administrative Support
+0.20% usage
+Psychology Teachers, Postsecondary
+Educational Instruction and Library
+0.19% usage
+Actuaries
+Computer and Mathematical
+0.19% usage
+Chemists
+Life, Physical, and Social Science
+0.18% usage
+Special Education Teachers, Secondary School
+Educational Instruction and Library
+0.18% usage
+Fine Artists, Including Painters, Sculptors, and Illustrators
+Arts, Design, Entertainment, Sports, and Media
+0.18% usage
+Information Security Analysts
+Computer and Mathematical
+0.18% usage
+Correctional Officers and Jailers
+Protective Service
+0.18% usage
+Clinical Data Managers
+Computer and Mathematical
+0.18% usage
+Career/Technical Education Teachers, Secondary School
+Educational Instruction and Library
+0.17% usage
+Teacher Assistants
+Educational Instruction and Library
+0.17% usage
+Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop
+Food Preparation and Serving Related
+0.17% usage
+Social Work Teachers, Postsecondary
+Educational Instruction and Library
+0.17% usage
+Special Education Teachers, Middle School
+Educational Instruction and Library
+0.17% usage
+Education Administrators, Elementary and Secondary School
+Management
+0.17% usage
+Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+Sales and Related
+0.16% usage
+Door-To-Door Sales Workers, News and Street Vendors, and Related Workers
+Sales and Related
+0.16% usage
+Business Intelligence Analysts
+Computer and Mathematical
+0.16% usage
+Financial Analysts
+Business and Financial Operations
+0.15% usage
+Middle School Teachers, Except Special and Career/Technical Education
+Educational Instruction and Library
+0.15% usage
+Philosophy and Religion Teachers, Postsecondary
+Educational Instruction and Library
+0.14% usage
+Lawyers
+Legal
+0.14% usage
+Robotics Engineers
+Architecture and Engineering
+0.14% usage
+Computer Network Architects
+Computer and Mathematical
+0.14% usage
+Secondary School Teachers, Except Special and Career/Technical Education
+Educational Instruction and Library
+0.14% usage
+Nurse Practitioners
+Healthcare Practitioners and Technical
+0.14% usage
+Bookkeeping, Accounting, and Auditing Clerks
+Office and Administrative Support
+0.14% usage
+Administrative Law Judges, Adjudicators, and Hearing Officers
+Legal
+0.14% usage
+Choreographers
+Arts, Design, Entertainment, Sports, and Media
+0.14% usage
+History Teachers, Postsecondary
+Educational Instruction and Library
+0.14% usage
+Engineering Teachers, Postsecondary
+Educational Instruction and Library
+0.13% usage
+Desktop Publishers
+Office and Administrative Support
+0.13% usage
+Graphic Designers
+Arts, Design, Entertainment, Sports, and Media
+0.13% usage
+Marriage and Family Therapists
+Community and Social Service
+0.13% usage
+Biological Technicians
+Life, Physical, and Social Science
+0.13% usage
+Securities and Commodities Traders
+Sales and Related
+0.13% usage
+Anthropology and Archeology Teachers, Postsecondary
+Educational Instruction and Library
+0.13% usage
+Financial Managers, Branch or Department
+Management
+0.13% usage
+Survey Researchers
+Life, Physical, and Social Science
+0.12% usage
+Human Resources Specialists
+Business and Financial Operations
+0.12% usage
+Exercise Physiologists
+Healthcare Practitioners and Technical
+0.12% usage
+Human Resources Assistants, Except Payroll and Timekeeping
+Office and Administrative Support
+0.12% usage
+Directors- Stage, Motion Pictures, Television, and Radio
+Arts, Design, Entertainment, Sports, and Media
+0.12% usage
+Photonics Engineers
+Architecture and Engineering
+0.12% usage
+Financial Quantitative Analysts
+Business and Financial Operations
+0.12% usage
+Clinical Research Coordinators
+Management
+0.12% usage
+Sales Engineers
+Sales and Related
+0.12% usage
+Counter and Rental Clerks
+Sales and Related
+0.12% usage
+Biostatisticians
+Computer and Mathematical
+0.12% usage
+Molecular and Cellular Biologists
+Life, Physical, and Social Science
+0.11% usage
+Audio-Visual and Multimedia Collections Specialists
+Educational Instruction and Library
+0.11% usage
+Library Science Teachers, Postsecondary
+Educational Instruction and Library
+0.11% usage
+Chemical Technicians
+Life, Physical, and Social Science
+0.11% usage
+Art Directors
+Arts, Design, Entertainment, Sports, and Media
+0.11% usage
+Electronics Engineering Technologists
+Architecture and Engineering
+0.11% usage
+Anthropologists
+Life, Physical, and Social Science
+0.11% usage
+Allergists and Immunologists
+Healthcare Practitioners and Technical
+0.11% usage
+Management Analysts
+Business and Financial Operations
+0.11% usage
+Film and Video Editors
+Arts, Design, Entertainment, Sports, and Media
+0.11% usage
+Accountants
+Business and Financial Operations
+0.11% usage
+Sociologists
+Life, Physical, and Social Science
+0.11% usage
+Physics Teachers, Postsecondary
+Educational Instruction and Library
+0.10% usage
+Computer and Information Systems Managers
+Management
+0.10% usage
+Counseling Psychologists
+Life, Physical, and Social Science
+0.10% usage
+Midwives
+Healthcare Practitioners and Technical
+0.10% usage
+Biochemists and Biophysicists
+Life, Physical, and Social Science
+0.10% usage
+Producers
+Arts, Design, Entertainment, Sports, and Media
+0.10% usage
+Arbitrators, Mediators, and Conciliators
+Legal
+0.10% usage
+Investment Underwriters
+Business and Financial Operations
+0.10% usage
+Tax Preparers
+Business and Financial Operations
+0.10% usage
+Economists
+Life, Physical, and Social Science
+0.10% usage
+Materials Scientists
+Life, Physical, and Social Science
+0.10% usage
+Statistical Assistants
+Office and Administrative Support
+0.09% usage
+Substance Abuse and Behavioral Disorder Counselors
+Community and Social Service
+0.09% usage
+Telecommunications Engineering Specialists
+Computer and Mathematical
+0.09% usage
+Geoscientists, Except Hydrologists and Geographers
+Life, Physical, and Social Science
+0.09% usage
+Curators
+Educational Instruction and Library
+0.09% usage
+Training and Development Managers
+Management
+0.09% usage
+Marketing Managers
+Management
+0.09% usage
+Astronomers
+Life, Physical, and Social Science
+0.09% usage
+Photographers
+Arts, Design, Entertainment, Sports, and Media
+0.09% usage
+Architectural and Engineering Managers
+Management
+0.09% usage
+Tailors, Dressmakers, and Custom Sewers
+Production
+0.09% usage
+Loan Counselors
+Business and Financial Operations
+0.09% usage
+First-Line Supervisors of Housekeeping and Janitorial Workers
+Building and Grounds Cleaning and Maintenance
+0.09% usage
+Microbiologists
+Life, Physical, and Social Science
+0.09% usage
+Library Technicians
+Educational Instruction and Library
+0.09% usage
+Civil Engineering Technicians
+Architecture and Engineering
+0.09% usage
+Fundraisers
+Business and Financial Operations
+0.08% usage
+Environmental Science Teachers, Postsecondary
+Educational Instruction and Library
+0.08% usage
+Geospatial Information Scientists and Technologists
+Computer and Mathematical
+0.08% usage
+City and Regional Planning Aides
+Life, Physical, and Social Science
+0.08% usage
+Loan Officers
+Business and Financial Operations
+0.08% usage
+Education Administrators, Postsecondary
+Management
+0.08% usage
+Clinical Nurse Specialists
+Healthcare Practitioners and Technical
+0.08% usage
+Education Teachers, Postsecondary
+Educational Instruction and Library
+0.08% usage
+Art, Drama, and Music Teachers, Postsecondary
+Educational Instruction and Library
+0.08% usage
+Cooks, Fast Food
+Food Preparation and Serving Related
+0.08% usage
+Energy Engineers
+Architecture and Engineering
+0.08% usage
+Chemistry Teachers, Postsecondary
+Educational Instruction and Library
+0.08% usage
+Biochemical Engineers
+Architecture and Engineering
+0.08% usage
+Customer Service Representatives
+Office and Administrative Support
+0.07% usage
+Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary
+Educational Instruction and Library
+0.07% usage
+Geneticists
+Life, Physical, and Social Science
+0.07% usage
+Archeologists
+Life, Physical, and Social Science
+0.07% usage
+Compensation, Benefits, and Job Analysis Specialists
+Business and Financial Operations
+0.07% usage
+Security Management Specialists
+Business and Financial Operations
+0.07% usage
+Receptionists and Information Clerks
+Office and Administrative Support
+0.07% usage
+Demonstrators and Product Promoters
+Sales and Related
+0.07% usage
+Childcare Workers
+Personal Care and Service
+0.07% usage
+Area, Ethnic, and Cultural Studies Teachers, Postsecondary
+Educational Instruction and Library
+0.07% usage
+Medical Transcriptionists
+Healthcare Support
+0.07% usage
+Coaches and Scouts
+Arts, Design, Entertainment, Sports, and Media
+0.07% usage
+Soil and Plant Scientists
+Life, Physical, and Social Science
+0.07% usage
+Library Assistants, Clerical
+Office and Administrative Support
+0.07% usage
+Audio and Video Equipment Technicians
+Arts, Design, Entertainment, Sports, and Media
+0.07% usage
+Craft Artists
+Arts, Design, Entertainment, Sports, and Media
+0.07% usage
+Directors, Religious Activities and Education
+Community and Social Service
+0.07% usage
+Music Composers and Arrangers
+Arts, Design, Entertainment, Sports, and Media
+0.07% usage
+Business Teachers, Postsecondary
+Educational Instruction and Library
+0.07% usage
+Electronics Engineering Technicians
+Architecture and Engineering
+0.07% usage
+Architects, Except Landscape and Naval
+Architecture and Engineering
+0.06% usage
+Concierges
+Personal Care and Service
+0.06% usage
+Paralegals and Legal Assistants
+Legal
+0.06% usage
+Eligibility Interviewers, Government Programs
+Office and Administrative Support
+0.06% usage
+Pediatricians, General
+Healthcare Practitioners and Technical
+0.06% usage
+Mechanical Engineering Technologists
+Architecture and Engineering
+0.06% usage
+First-Line Supervisors of Retail Sales Workers
+Sales and Related
+0.06% usage
+Dietetic Technicians
+Healthcare Practitioners and Technical
+0.06% usage
+Naturopathic Physicians
+Healthcare Practitioners and Technical
+0.06% usage
+Electrical Engineers
+Architecture and Engineering
+0.06% usage
+Remote Sensing Technicians
+Life, Physical, and Social Science
+0.06% usage
+Music Therapists
+Healthcare Practitioners and Technical
+0.06% usage
+Food Science Technicians
+Life, Physical, and Social Science
+0.06% usage
+Biologists
+Life, Physical, and Social Science
+0.06% usage
+Business Continuity Planners
+Business and Financial Operations
+0.06% usage
+Elementary School Teachers, Except Special Education
+Educational Instruction and Library
+0.06% usage
+Physician Assistants
+Healthcare Practitioners and Technical
+0.06% usage
+Insurance Policy Processing Clerks
+Office and Administrative Support
+0.06% usage
+Pharmacy Aides
+Healthcare Support
+0.06% usage
+Medical and Health Services Managers
+Management
+0.06% usage
+Informatics Nurse Specialists
+Computer and Mathematical
+0.06% usage
+Cooks, Restaurant
+Food Preparation and Serving Related
+0.06% usage
+Obstetricians and Gynecologists
+Healthcare Practitioners and Technical
+0.06% usage
+Nanosystems Engineers
+Architecture and Engineering
+0.05% usage
+Forestry and Conservation Science Teachers, Postsecondary
+Educational Instruction and Library
+0.05% usage
+Electronics Engineers, Except Computer
+Architecture and Engineering
+0.05% usage
+Auditors
+Business and Financial Operations
+0.05% usage
+Music Directors
+Arts, Design, Entertainment, Sports, and Media
+0.05% usage
+Financial Examiners
+Business and Financial Operations
+0.05% usage
+Logistics Engineers
+Business and Financial Operations
+0.05% usage
+Property, Real Estate, and Community Association Managers
+Management
+0.05% usage
+Food Scientists and Technologists
+Life, Physical, and Social Science
+0.05% usage
+Atmospheric and Space Scientists
+Life, Physical, and Social Science
+0.05% usage
+Geographic Information Systems Technicians
+Computer and Mathematical
+0.05% usage
+Patient Representatives
+Office and Administrative Support
+0.05% usage
+Interviewers, Except Eligibility and Loan
+Office and Administrative Support
+0.05% usage
+Art Therapists
+Healthcare Practitioners and Technical
+0.05% usage
+Forest and Conservation Technicians
+Life, Physical, and Social Science
+0.05% usage
+Insurance Sales Agents
+Sales and Related
+0.05% usage
+Real Estate Brokers
+Sales and Related
+0.05% usage
+Information Technology Project Managers
+Computer and Mathematical
+0.05% usage
+Medical Records and Health Information Technicians
+Healthcare Practitioners and Technical
+0.05% usage
+Patternmakers, Wood
+Production
+0.05% usage
+Physical Therapists
+Healthcare Practitioners and Technical
+0.05% usage
+Genetic Counselors
+Healthcare Practitioners and Technical
+0.05% usage
+Human Resources Managers
+Management
+0.05% usage
+Immigration and Customs Inspectors
+Protective Service
+0.05% usage
+Broadcast News Analysts
+Arts, Design, Entertainment, Sports, and Media
+0.04% usage
+Proofreaders and Copy Markers
+Office and Administrative Support
+0.04% usage
+Billing, Cost, and Rate Clerks
+Office and Administrative Support
+0.04% usage
+Hydrologists
+Life, Physical, and Social Science
+0.04% usage
+Agricultural Technicians
+Life, Physical, and Social Science
+0.04% usage
+Health Specialties Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Internists, General
+Healthcare Practitioners and Technical
+0.04% usage
+Gaming Supervisors
+Personal Care and Service
+0.04% usage
+Geography Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers
+Building and Grounds Cleaning and Maintenance
+0.04% usage
+Industrial Machinery Mechanics
+Installation, Maintenance, and Repair
+0.04% usage
+Athletic Trainers
+Healthcare Practitioners and Technical
+0.04% usage
+Treasurers and Controllers
+Management
+0.04% usage
+School Psychologists
+Life, Physical, and Social Science
+0.04% usage
+Dentists, General
+Healthcare Practitioners and Technical
+0.04% usage
+Meeting, Convention, and Event Planners
+Business and Financial Operations
+0.04% usage
+Advertising Sales Agents
+Sales and Related
+0.04% usage
+Criminal Justice and Law Enforcement Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Economics Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Political Science Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Communications Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Law Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Sociology Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Set and Exhibit Designers
+Arts, Design, Entertainment, Sports, and Media
+0.04% usage
+Mathematical Science Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Education Administrators, Preschool and Childcare Center/Program
+Management
+0.04% usage
+Geographers
+Life, Physical, and Social Science
+0.04% usage
+Automotive Engineers
+Architecture and Engineering
+0.04% usage
+Purchasing Managers
+Management
+0.04% usage
+Sales Agents, Financial Services
+Sales and Related
+0.04% usage
+Computer Science Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Veterinarians
+Healthcare Practitioners and Technical
+0.04% usage
+Hairdressers, Hairstylists, and Cosmetologists
+Personal Care and Service
+0.04% usage
+Singers
+Arts, Design, Entertainment, Sports, and Media
+0.04% usage
+Microsystems Engineers
+Architecture and Engineering
+0.04% usage
+Agricultural Sciences Teachers, Postsecondary
+Educational Instruction and Library
+0.04% usage
+Travel Agents
+Sales and Related
+0.04% usage
+Veterinary Assistants and Laboratory Animal Caretakers
+Healthcare Support
+0.04% usage
+Training and Development Specialists
+Business and Financial Operations
+0.04% usage
+Health Educators
+Community and Social Service
+0.04% usage
+Environmental Scientists and Specialists, Including Health
+Life, Physical, and Social Science
+0.04% usage
+Special Education Teachers, Preschool
+Educational Instruction and Library
+0.04% usage
+Inspectors, Testers, Sorters, Samplers, and Weighers
+Production
+0.04% usage
+Customs Brokers
+Business and Financial Operations
+0.04% usage
+Purchasing Agents, Except Wholesale, Retail, and Farm Products
+Business and Financial Operations
+0.03% usage
+Special Education Teachers, Kindergarten and Elementary School
+Educational Instruction and Library
+0.03% usage
+Municipal Clerks
+Office and Administrative Support
+0.03% usage
+Adapted Physical Education Specialists
+Educational Instruction and Library
+0.03% usage
+Travel Guides
+Personal Care and Service
+0.03% usage
+Occupational Therapy Assistants
+Healthcare Support
+0.03% usage
+Zoologists and Wildlife Biologists
+Life, Physical, and Social Science
+0.03% usage
+Compensation and Benefits Managers
+Management
+0.03% usage
+Construction Managers
+Management
+0.03% usage
+Robotics Technicians
+Architecture and Engineering
+0.03% usage
+Interior Designers
+Arts, Design, Entertainment, Sports, and Media
+0.03% usage
+Nurse Midwives
+Healthcare Practitioners and Technical
+0.03% usage
+General and Operations Managers
+Management
+0.03% usage
+Epidemiologists
+Life, Physical, and Social Science
+0.03% usage
+Kindergarten Teachers, Except Special Education
+Educational Instruction and Library
+0.03% usage
+Radio and Television Announcers
+Arts, Design, Entertainment, Sports, and Media
+0.03% usage
+Electronic Home Entertainment Equipment Installers and Repairers
+Installation, Maintenance, and Repair
+0.03% usage
+Career/Technical Education Teachers, Middle School
+Educational Instruction and Library
+0.03% usage
+First-Line Supervisors of Food Preparation and Serving Workers
+Food Preparation and Serving Related
+0.03% usage
+Farm and Home Management Advisors
+Educational Instruction and Library
+0.03% usage
+Physicists
+Life, Physical, and Social Science
+0.03% usage
+Medical Assistants
+Healthcare Support
+0.03% usage
+Chefs and Head Cooks
+Food Preparation and Serving Related
+0.03% usage
+First-Line Supervisors of Non-Retail Sales Workers
+Sales and Related
+0.03% usage
+Stock Clerks, Sales Floor
+Office and Administrative Support
+0.03% usage
+Plumbers
+Construction and Extraction
+0.03% usage
+Solar Photovoltaic Installers
+Construction and Extraction
+0.03% usage
+Title Examiners, Abstractors, and Searchers
+Legal
+0.03% usage
+Regulatory Affairs Specialists
+Business and Financial Operations
+0.03% usage
+Home Economics Teachers, Postsecondary
+Educational Instruction and Library
+0.03% usage
+Equal Opportunity Representatives and Officers
+Business and Financial Operations
+0.03% usage
+Acupuncturists
+Healthcare Practitioners and Technical
+0.03% usage
+Funeral Service Managers
+Management
+0.03% usage
+Court Reporters
+Legal
+0.03% usage
+Risk Management Specialists
+Business and Financial Operations
+0.03% usage
+Medical and Clinical Laboratory Technicians
+Healthcare Practitioners and Technical
+0.03% usage
+Human Factors Engineers and Ergonomists
+Architecture and Engineering
+0.03% usage
+Judges, Magistrate Judges, and Magistrates
+Legal
+0.03% usage
+Prepress Technicians and Workers
+Production
+0.03% usage
+Talent Directors
+Arts, Design, Entertainment, Sports, and Media
+0.03% usage
+Regulatory Affairs Managers
+Management
+0.03% usage
+Healthcare Social Workers
+Community and Social Service
+0.03% usage
+Nursing Instructors and Teachers, Postsecondary
+Educational Instruction and Library
+0.03% usage
+Medical Secretaries
+Office and Administrative Support
+0.03% usage
+Telemarketers
+Sales and Related
+0.03% usage
+Climate Change Analysts
+Life, Physical, and Social Science
+0.03% usage
+Judicial Law Clerks
+Legal
+0.03% usage
+Lodging Managers
+Management
+0.03% usage
+Telecommunications Equipment Installers and Repairers, Except Line Installers
+Installation, Maintenance, and Repair
+0.03% usage
+Respiratory Therapists
+Healthcare Practitioners and Technical
+0.03% usage
+Hotel, Motel, and Resort Desk Clerks
+Office and Administrative Support
+0.03% usage
+Architecture Teachers, Postsecondary
+Educational Instruction and Library
+0.03% usage
+Fashion Designers
+Arts, Design, Entertainment, Sports, and Media
+0.03% usage
+Preschool Teachers, Except Special Education
+Educational Instruction and Library
+0.03% usage
+Social and Community Service Managers
+Management
+0.03% usage
+Tour Guides and Escorts
+Personal Care and Service
+0.03% usage
+Acute Care Nurses
+Healthcare Practitioners and Technical
+0.03% usage
+Sales Managers
+Management
+0.03% usage
+Environmental Economists
+Life, Physical, and Social Science
+0.03% usage
+Mental Health and Substance Abuse Social Workers
+Community and Social Service
+0.03% usage
+Mechanical Engineers
+Architecture and Engineering
+0.02% usage
+Museum Technicians and Conservators
+Educational Instruction and Library
+0.02% usage
+Switchboard Operators, Including Answering Service
+Office and Administrative Support
+0.02% usage
+Mathematical Technicians
+Computer and Mathematical
+0.02% usage
+Intelligence Analysts
+Protective Service
+0.02% usage
+Airfield Operations Specialists
+Transportation and Material Moving
+0.02% usage
+Natural Sciences Managers
+Management
+0.02% usage
+Green Marketers
+Management
+0.02% usage
+Bill and Account Collectors
+Office and Administrative Support
+0.02% usage
+Landscape Architects
+Architecture and Engineering
+0.02% usage
+Family and General Practitioners
+Healthcare Practitioners and Technical
+0.02% usage
+Textile Cutting Machine Setters, Operators, and Tenders
+Production
+0.02% usage
+Textile Knitting and Weaving Machine Setters, Operators, and Tenders
+Production
+0.02% usage
+Musicians, Instrumental
+Arts, Design, Entertainment, Sports, and Media
+0.02% usage
+Licensing Examiners and Inspectors
+Business and Financial Operations
+0.02% usage
+Solar Sales Representatives and Assessors
+Sales and Related
+0.02% usage
+Government Property Inspectors and Investigators
+Business and Financial Operations
+0.02% usage
+Storage and Distribution Managers
+Management
+0.02% usage
+Tax Examiners and Collectors, and Revenue Agents
+Business and Financial Operations
+0.02% usage
+Legal Secretaries
+Office and Administrative Support
+0.02% usage
+Farm and Ranch Managers
+Management
+0.02% usage
+Waiters and Waitresses
+Food Preparation and Serving Related
+0.02% usage
+Computer-Controlled Machine Tool Operators, Metal and Plastic
+Production
+0.02% usage
+Massage Therapists
+Healthcare Support
+0.02% usage
+Methane/Landfill Gas Generation System Technicians
+Production
+0.02% usage
+Bakers
+Production
+0.02% usage
+Fraud Examiners, Investigators and Analysts
+Business and Financial Operations
+0.02% usage
+Rehabilitation Counselors
+Community and Social Service
+0.02% usage
+Data Entry Keyers
+Office and Administrative Support
+0.02% usage
+Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists
+Healthcare Practitioners and Technical
+0.02% usage
+Biomedical Engineers
+Architecture and Engineering
+0.02% usage
+Pathologists
+Healthcare Practitioners and Technical
+0.02% usage
+Nursery and Greenhouse Managers
+Management
+0.02% usage
+Commercial and Industrial Designers
+Arts, Design, Entertainment, Sports, and Media
+0.02% usage
+Driver/Sales Workers
+Transportation and Material Moving
+0.02% usage
+Medical Scientists, Except Epidemiologists
+Life, Physical, and Social Science
+0.02% usage
+Architectural Drafters
+Architecture and Engineering
+0.02% usage
+Budget Analysts
+Business and Financial Operations
+0.02% usage
+First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand
+Transportation and Material Moving
+0.02% usage
+Nuclear Engineers
+Architecture and Engineering
+0.02% usage
+License Clerks
+Office and Administrative Support
+0.02% usage
+Insurance Claims Clerks
+Office and Administrative Support
+0.02% usage
+Transportation Planners
+Life, Physical, and Social Science
+0.02% usage
+Logisticians
+Business and Financial Operations
+0.02% usage
+Electrical Drafters
+Architecture and Engineering
+0.02% usage
+Freight Forwarders
+Office and Administrative Support
+0.02% usage
+Funeral Attendants
+Personal Care and Service
+0.02% usage
+Couriers and Messengers
+Office and Administrative Support
+0.02% usage
+Electronic Drafters
+Architecture and Engineering
+0.02% usage
+Sound Engineering Technicians
+Arts, Design, Entertainment, Sports, and Media
+0.02% usage
+Camera Operators, Television, Video, and Motion Picture
+Arts, Design, Entertainment, Sports, and Media
+0.02% usage
+Ophthalmologists
+Healthcare Practitioners and Technical
+0.02% usage
+Food Preparation Workers
+Food Preparation and Serving Related
+0.02% usage
+Appraisers, Real Estate
+Business and Financial Operations
+0.02% usage
+Court Clerks
+Office and Administrative Support
+0.02% usage
+Payroll and Timekeeping Clerks
+Office and Administrative Support
+0.02% usage
+Logistics Analysts
+Business and Financial Operations
+0.02% usage
+Distance Learning Coordinators
+Management
+0.02% usage
+Marine Engineers
+Architecture and Engineering
+0.02% usage
+Electrical Engineering Technicians
+Architecture and Engineering
+0.02% usage
+Transportation Engineers
+Architecture and Engineering
+0.02% usage
+Nuclear Medicine Physicians
+Healthcare Practitioners and Technical
+0.02% usage
+Gaming Cage Workers
+Office and Administrative Support
+0.02% usage
+Logistics Managers
+Management
+0.02% usage
+File Clerks
+Office and Administrative Support
+0.02% usage
+Orthoptists
+Healthcare Practitioners and Technical
+0.02% usage
+Police Patrol Officers
+Protective Service
+0.02% usage
+Nursing Assistants
+Healthcare Support
+0.02% usage
+Bus Drivers, School or Special Client
+Transportation and Material Moving
+0.02% usage
+Loss Prevention Managers
+Management
+0.02% usage
+Remote Sensing Scientists and Technologists
+Life, Physical, and Social Science
+0.02% usage
+Order Clerks
+Office and Administrative Support
+0.02% usage
+Nanotechnology Engineering Technicians
+Architecture and Engineering
+0.02% usage
+Water/Wastewater Engineers
+Architecture and Engineering
+0.02% usage
+Weighers, Measurers, Checkers, and Samplers, Recordkeeping
+Office and Administrative Support
+0.02% usage
+Social and Human Service Assistants
+Community and Social Service
+0.02% usage
+Agricultural Engineers
+Architecture and Engineering
+0.02% usage
+Electro-Mechanical Technicians
+Architecture and Engineering
+0.02% usage
+Aerospace Engineers
+Architecture and Engineering
+0.02% usage
+Environmental Engineers
+Architecture and Engineering
+0.02% usage
+First-Line Supervisors of Mechanics, Installers, and Repairers
+Installation, Maintenance, and Repair
+0.02% usage
+Pharmacy Technicians
+Healthcare Practitioners and Technical
+0.02% usage
+Parts Salespersons
+Sales and Related
+0.02% usage
+Radiologists
+Healthcare Practitioners and Technical
+0.02% usage
+Textile Bleaching and Dyeing Machine Operators and Tenders
+Production
+0.02% usage
+Procurement Clerks
+Office and Administrative Support
+0.02% usage
+Animal Control Workers
+Protective Service
+0.02% usage
+Manufacturing Engineers
+Architecture and Engineering
+0.01% usage
+Automotive Master Mechanics
+Installation, Maintenance, and Repair
+0.01% usage
+Fitness Trainers and Aerobics Instructors
+Personal Care and Service
+0.01% usage
+Registered Nurses
+Healthcare Practitioners and Technical
+0.01% usage
+Medical and Clinical Laboratory Technologists
+Healthcare Practitioners and Technical
+0.01% usage
+Police, Fire, and Ambulance Dispatchers
+Office and Administrative Support
+0.01% usage
+Pipe Fitters and Steamfitters
+Construction and Extraction
+0.01% usage
+Critical Care Nurses
+Healthcare Practitioners and Technical
+0.01% usage
+Psychiatrists
+Healthcare Practitioners and Technical
+0.01% usage
+Retail Loss Prevention Specialists
+Protective Service
+0.01% usage
+Insurance Underwriters
+Business and Financial Operations
+0.01% usage
+Electricians
+Construction and Extraction
+0.01% usage
+Cost Estimators
+Business and Financial Operations
+0.01% usage
+Geophysical Data Technicians
+Life, Physical, and Social Science
+0.01% usage
+Amusement and Recreation Attendants
+Personal Care and Service
+0.01% usage
+Transportation Attendants, Except Flight Attendants
+Transportation and Material Moving
+0.01% usage
+Photographic Process Workers and Processing Machine Operators
+Production
+0.01% usage
+Licensed Practical and Licensed Vocational Nurses
+Healthcare Practitioners and Technical
+0.01% usage
+Residential Advisors
+Personal Care and Service
+0.01% usage
+Automotive and Watercraft Service Attendants
+Transportation and Material Moving
+0.01% usage
+First-Line Supervisors of Personal Service Workers
+Personal Care and Service
+0.01% usage
+Subway and Streetcar Operators
+Transportation and Material Moving
+0.01% usage
+Environmental Engineering Technicians
+Architecture and Engineering
+0.01% usage
+Heating and Air Conditioning Mechanics and Installers
+Installation, Maintenance, and Repair
+0.01% usage
+Industrial Ecologists
+Life, Physical, and Social Science
+0.01% usage
+Loan Interviewers and Clerks
+Office and Administrative Support
+0.01% usage
+Quality Control Analysts
+Life, Physical, and Social Science
+0.01% usage
+Civil Engineers
+Architecture and Engineering
+0.01% usage
+Geological Sample Test Technicians
+Life, Physical, and Social Science
+0.01% usage
+Baristas
+Food Preparation and Serving Related
+0.01% usage
+Legislators
+Management
+0.01% usage
+Barbers
+Personal Care and Service
+0.01% usage
+Neuropsychologists and Clinical Neuropsychologists
+Life, Physical, and Social Science
+0.01% usage
+First-Line Supervisors of Construction Trades and Extraction Workers
+Construction and Extraction
+0.01% usage
+Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.01% usage
+Landscaping and Groundskeeping Workers
+Building and Grounds Cleaning and Maintenance
+0.01% usage
+Dental Hygienists
+Healthcare Practitioners and Technical
+0.01% usage
+Occupational Health and Safety Technicians
+Healthcare Practitioners and Technical
+0.01% usage
+Child, Family, and School Social Workers
+Community and Social Service
+0.01% usage
+Construction and Building Inspectors
+Construction and Extraction
+0.01% usage
+Insurance Adjusters, Examiners, and Investigators
+Business and Financial Operations
+0.01% usage
+Baggage Porters and Bellhops
+Personal Care and Service
+0.01% usage
+Radio Frequency Identification Device Specialists
+Architecture and Engineering
+0.01% usage
+Recreational Therapists
+Healthcare Practitioners and Technical
+0.01% usage
+Non-Destructive Testing Specialists
+Architecture and Engineering
+0.01% usage
+Soil and Water Conservationists
+Life, Physical, and Social Science
+0.01% usage
+Cartographers and Photogrammetrists
+Architecture and Engineering
+0.01% usage
+Chemical Engineers
+Architecture and Engineering
+0.01% usage
+Sustainability Specialists
+Business and Financial Operations
+0.01% usage
+Labor Relations Specialists
+Business and Financial Operations
+0.01% usage
+Cytotechnologists
+Healthcare Practitioners and Technical
+0.01% usage
+Food Batchmakers
+Production
+0.01% usage
+Bartenders
+Food Preparation and Serving Related
+0.01% usage
+Occupational Therapists
+Healthcare Practitioners and Technical
+0.01% usage
+Cardiovascular Technologists and Technicians
+Healthcare Practitioners and Technical
+0.01% usage
+Skincare Specialists
+Personal Care and Service
+0.01% usage
+Food Service Managers
+Management
+0.01% usage
+First-Line Supervisors of Police and Detectives
+Protective Service
+0.01% usage
+Drywall and Ceiling Tile Installers
+Construction and Extraction
+0.01% usage
+Supply Chain Managers
+Management
+0.01% usage
+Wholesale and Retail Buyers, Except Farm Products
+Business and Financial Operations
+0.01% usage
+Chief Sustainability Officers
+Management
+0.01% usage
+Optometrists
+Healthcare Practitioners and Technical
+0.01% usage
+Electronic Equipment Installers and Repairers, Motor Vehicles
+Installation, Maintenance, and Repair
+0.01% usage
+Credit Checkers
+Office and Administrative Support
+0.01% usage
+Office Machine Operators, Except Computer
+Office and Administrative Support
+0.01% usage
+Energy Auditors
+Business and Financial Operations
+0.01% usage
+Cement Masons and Concrete Finishers
+Construction and Extraction
+0.01% usage
+Maintenance and Repair Workers, General
+Installation, Maintenance, and Repair
+0.01% usage
+Urban and Regional Planners
+Life, Physical, and Social Science
+0.01% usage
+Industrial Engineering Technicians
+Architecture and Engineering
+0.01% usage
+Broadcast Technicians
+Arts, Design, Entertainment, Sports, and Media
+0.01% usage
+Community Health Workers
+Community and Social Service
+0.01% usage
+Anesthesiologists
+Healthcare Practitioners and Technical
+0.01% usage
+Industrial Engineering Technologists
+Architecture and Engineering
+0.01% usage
+Security and Fire Alarm Systems Installers
+Installation, Maintenance, and Repair
+0.01% usage
+Production, Planning, and Expediting Clerks
+Office and Administrative Support
+0.01% usage
+Precision Agriculture Technicians
+Life, Physical, and Social Science
+0.01% usage
+Transportation Managers
+Management
+0.01% usage
+Parking Lot Attendants
+Transportation and Material Moving
+0.01% usage
+Electromechanical Engineering Technologists
+Architecture and Engineering
+0.01% usage
+Assessors
+Business and Financial Operations
+0.01% usage
+Morticians, Undertakers, and Funeral Directors
+Personal Care and Service
+0.01% usage
+Counter Attendants, Cafeteria, Food Concession, and Coffee Shop
+Food Preparation and Serving Related
+0.01% usage
+Cooks, Short Order
+Food Preparation and Serving Related
+0.01% usage
+Electric Motor, Power Tool, and Related Repairers
+Installation, Maintenance, and Repair
+0.01% usage
+Manufacturing Engineering Technologists
+Architecture and Engineering
+0.01% usage
+Brokerage Clerks
+Office and Administrative Support
+0.01% usage
+Mechatronics Engineers
+Architecture and Engineering
+0.01% usage
+Veterinary Technologists and Technicians
+Healthcare Practitioners and Technical
+0.01% usage
+Stock Clerks- Stockroom, Warehouse, or Storage Yard
+Office and Administrative Support
+0.01% usage
+Telephone Operators
+Office and Administrative Support
+0.01% usage
+Tellers
+Office and Administrative Support
+0.01% usage
+Jewelers
+Production
+0.01% usage
+Traffic Technicians
+Transportation and Material Moving
+0.01% usage
+Surgeons
+Healthcare Practitioners and Technical
+0.01% usage
+Animal Scientists
+Life, Physical, and Social Science
+0.01% usage
+Occupational Therapy Aides
+Healthcare Support
+0.01% usage
+Histotechnologists and Histologic Technicians
+Healthcare Practitioners and Technical
+0.01% usage
+Nuclear Medicine Technologists
+Healthcare Practitioners and Technical
+0.01% usage
+Chiropractors
+Healthcare Practitioners and Technical
+0.01% usage
+Respiratory Therapy Technicians
+Healthcare Practitioners and Technical
+0.01% usage
+Nannies
+Personal Care and Service
+0.01% usage
+Weatherization Installers and Technicians
+Construction and Extraction
+0.01% usage
+Environmental Science and Protection Technicians, Including Health
+Life, Physical, and Social Science
+0.01% usage
+Recreational Vehicle Service Technicians
+Installation, Maintenance, and Repair
+0.01% usage
+Industrial Safety and Health Engineers
+Architecture and Engineering
+0.01% usage
+Program Directors
+Arts, Design, Entertainment, Sports, and Media
+0.01% usage
+Water Resource Specialists
+Management
+0.01% usage
+Shampooers
+Personal Care and Service
+0.01% usage
+Refrigeration Mechanics and Installers
+Installation, Maintenance, and Repair
+0.01% usage
+Fuel Cell Engineers
+Architecture and Engineering
+0.01% usage
+Helpers--Production Workers
+Production
+0.01% usage
+Solar Energy Installation Managers
+Construction and Extraction
+0.01% usage
+Heavy and Tractor-Trailer Truck Drivers
+Transportation and Material Moving
+0.01% usage
+Sheet Metal Workers
+Construction and Extraction
+0.01% usage
+Hospitalists
+Healthcare Practitioners and Technical
+0.01% usage
+Compliance Managers
+Management
+0.01% usage
+Electromechanical Equipment Assemblers
+Production
+0.01% usage
+Molding and Casting Workers
+Production
+0.01% usage
+Pest Control Workers
+Building and Grounds Cleaning and Maintenance
+0.01% usage
+Credit Analysts
+Business and Financial Operations
+0.01% usage
+Maids and Housekeeping Cleaners
+Building and Grounds Cleaning and Maintenance
+0.01% usage
+Home Health Aides
+Healthcare Support
+0.01% usage
+Credit Authorizers
+Office and Administrative Support
+0.01% usage
+Camera and Photographic Equipment Repairers
+Installation, Maintenance, and Repair
+0.01% usage
+Costume Attendants
+Personal Care and Service
+0.01% usage
+Flight Attendants
+Transportation and Material Moving
+0.01% usage
+New Accounts Clerks
+Office and Administrative Support
+0.01% usage
+Taxi Drivers and Chauffeurs
+Transportation and Material Moving
+0.01% usage
+Preventive Medicine Physicians
+Healthcare Practitioners and Technical
+0.01% usage
+Electrical and Electronics Installers and Repairers, Transportation Equipment
+Installation, Maintenance, and Repair
+0.01% usage
+Machinists
+Production
+0.01% usage
+Electrical Engineering Technologists
+Architecture and Engineering
+0.01% usage
+Shipping, Receiving, and Traffic Clerks
+Office and Administrative Support
+0.01% usage
+Nanotechnology Engineering Technologists
+Architecture and Engineering
+0.01% usage
+Surveyors
+Architecture and Engineering
+0.01% usage
+Construction Laborers
+Construction and Extraction
+0.01% usage
+Agricultural Inspectors
+Farming, Fishing, and Forestry
+0.01% usage
+Automotive Engineering Technicians
+Architecture and Engineering
+0.01% usage
+Power Plant Operators
+Production
+0.01% usage
+Gaming Managers
+Management
+0.01% usage
+Private Detectives and Investigators
+Protective Service
+0.01% usage
+Dispatchers, Except Police, Fire, and Ambulance
+Office and Administrative Support
+0.01% usage
+Psychiatric Aides
+Healthcare Support
+0.01% usage
+Mobile Heavy Equipment Mechanics, Except Engines
+Installation, Maintenance, and Repair
+0.01% usage
+Industrial Engineers
+Architecture and Engineering
+0.01% usage
+Photonics Technicians
+Architecture and Engineering
+0.01% usage
+Claims Examiners, Property and Casualty Insurance
+Business and Financial Operations
+0.01% usage
+Coroners
+Business and Financial Operations
+0.01% usage
+Biomass Power Plant Managers
+Management
+0.01% usage
+Technical Directors/Managers
+Arts, Design, Entertainment, Sports, and Media
+0.01% usage
+Construction Carpenters
+Construction and Extraction
+0.01% usage
+Electrical and Electronics Repairers, Commercial and Industrial Equipment
+Installation, Maintenance, and Repair
+0.01% usage
+Conveyor Operators and Tenders
+Transportation and Material Moving
+0.01% usage
+Merchandise Displayers and Window Trimmers
+Arts, Design, Entertainment, Sports, and Media
+0.01% usage
+Police Detectives
+Protective Service
+0.01% usage
+Orthodontists
+Healthcare Practitioners and Technical
+0.01% usage
+Locker Room, Coatroom, and Dressing Room Attendants
+Personal Care and Service
+0.01% usage
+Radio Mechanics
+Installation, Maintenance, and Repair
+0.01% usage
+Cargo and Freight Agents
+Office and Administrative Support
+0.01% usage
+Validation Engineers
+Architecture and Engineering
+0.01% usage
+Environmental Compliance Inspectors
+Business and Financial Operations
+0.01% usage
+Terrazzo Workers and Finishers
+Construction and Extraction
+0.01% usage
+Occupational Health and Safety Specialists
+Healthcare Practitioners and Technical
+0.01% usage
+Cytogenetic Technologists
+Healthcare Practitioners and Technical
+0.01% usage
+Sports Medicine Physicians
+Healthcare Practitioners and Technical
+0.01% usage
+Railroad Brake, Signal, and Switch Operators
+Transportation and Material Moving
+0.01% usage
+Combined Food Preparation and Serving Workers, Including Fast Food
+Food Preparation and Serving Related
+0.01% usage
+Makeup Artists, Theatrical and Performance
+Personal Care and Service
+0.01% usage
+Recreation Workers
+Personal Care and Service
+0.01% usage
+Magnetic Resonance Imaging Technologists
+Healthcare Practitioners and Technical
+0.00% usage
+Transportation Security Screeners
+Protective Service
+0.00% usage
+Home Appliance Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Diagnostic Medical Sonographers
+Healthcare Practitioners and Technical
+0.00% usage
+Neurodiagnostic Technologists
+Healthcare Practitioners and Technical
+0.00% usage
+Precious Metal Workers
+Production
+0.00% usage
+Nuclear Monitoring Technicians
+Life, Physical, and Social Science
+0.00% usage
+Criminal Investigators and Special Agents
+Protective Service
+0.00% usage
+Radiation Therapists
+Healthcare Practitioners and Technical
+0.00% usage
+Athletes and Sports Competitors
+Arts, Design, Entertainment, Sports, and Media
+0.00% usage
+Umpires, Referees, and Other Sports Officials
+Arts, Design, Entertainment, Sports, and Media
+0.00% usage
+Farmworkers and Laborers, Crop
+Farming, Fishing, and Forestry
+0.00% usage
+Energy Brokers
+Sales and Related
+0.00% usage
+Motorcycle Mechanics
+Installation, Maintenance, and Repair
+0.00% usage
+Forest Fire Fighting and Prevention Supervisors
+Protective Service
+0.00% usage
+Anesthesiologist Assistants
+Healthcare Practitioners and Technical
+0.00% usage
+Forensic Science Technicians
+Life, Physical, and Social Science
+0.00% usage
+Model Makers, Wood
+Production
+0.00% usage
+Painters, Construction and Maintenance
+Construction and Extraction
+0.00% usage
+Cooks, Institution and Cafeteria
+Food Preparation and Serving Related
+0.00% usage
+Statement Clerks
+Office and Administrative Support
+0.00% usage
+Hazardous Materials Removal Workers
+Construction and Extraction
+0.00% usage
+Power Distributors and Dispatchers
+Production
+0.00% usage
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+Transportation and Material Moving
+0.00% usage
+Dermatologists
+Healthcare Practitioners and Technical
+0.00% usage
+Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+Installation, Maintenance, and Repair
+0.00% usage
+Ushers, Lobby Attendants, and Ticket Takers
+Personal Care and Service
+0.00% usage
+Fish and Game Wardens
+Protective Service
+0.00% usage
+Speech-Language Pathologists
+Healthcare Practitioners and Technical
+0.00% usage
+Roofers
+Construction and Extraction
+0.00% usage
+Cooks, Private Household
+Food Preparation and Serving Related
+0.00% usage
+Postal Service Mail Carriers
+Office and Administrative Support
+0.00% usage
+Neurologists
+Healthcare Practitioners and Technical
+0.00% usage
+Emergency Management Directors
+Management
+0.00% usage
+Aquacultural Managers
+Management
+0.00% usage
+Radio Operators
+Arts, Design, Entertainment, Sports, and Media
+0.00% usage
+Tile and Marble Setters
+Construction and Extraction
+0.00% usage
+Radiologic Technicians
+Healthcare Practitioners and Technical
+0.00% usage
+Wind Energy Project Managers
+Management
+0.00% usage
+Petroleum Pump System Operators, Refinery Operators, and Gaugers
+Production
+0.00% usage
+Timing Device Assemblers and Adjusters
+Production
+0.00% usage
+Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+Construction and Extraction
+0.00% usage
+Psychiatric Technicians
+Healthcare Practitioners and Technical
+0.00% usage
+Geothermal Production Managers
+Management
+0.00% usage
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Gaming Dealers
+Personal Care and Service
+0.00% usage
+Engine and Other Machine Assemblers
+Production
+0.00% usage
+Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Forest Firefighters
+Protective Service
+0.00% usage
+Manicurists and Pedicurists
+Personal Care and Service
+0.00% usage
+Civil Drafters
+Architecture and Engineering
+0.00% usage
+Buyers and Purchasing Agents, Farm Products
+Business and Financial Operations
+0.00% usage
+Structural Iron and Steel Workers
+Construction and Extraction
+0.00% usage
+Automotive Specialty Technicians
+Installation, Maintenance, and Repair
+0.00% usage
+Manufacturing Production Technicians
+Architecture and Engineering
+0.00% usage
+Insulation Workers, Mechanical
+Construction and Extraction
+0.00% usage
+Helpers--Installation, Maintenance, and Repair Workers
+Installation, Maintenance, and Repair
+0.00% usage
+Wind Energy Operations Managers
+Management
+0.00% usage
+Rail Yard Engineers, Dinkey Operators, and Hostlers
+Transportation and Material Moving
+0.00% usage
+Dental Assistants
+Healthcare Support
+0.00% usage
+Mechanical Engineering Technicians
+Architecture and Engineering
+0.00% usage
+Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Commercial Divers
+Installation, Maintenance, and Repair
+0.00% usage
+Postal Service Clerks
+Office and Administrative Support
+0.00% usage
+Animal Trainers
+Personal Care and Service
+0.00% usage
+Gaming and Sports Book Writers and Runners
+Personal Care and Service
+0.00% usage
+Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+Production
+0.00% usage
+Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Ship and Boat Captains
+Transportation and Material Moving
+0.00% usage
+First-Line Supervisors of Agricultural Crop and Horticultural Workers
+Farming, Fishing, and Forestry
+0.00% usage
+Bus and Truck Mechanics and Diesel Engine Specialists
+Installation, Maintenance, and Repair
+0.00% usage
+Air Traffic Controllers
+Transportation and Material Moving
+0.00% usage
+First-Line Supervisors of Animal Husbandry and Animal Care Workers
+Farming, Fishing, and Forestry
+0.00% usage
+Farm Equipment Mechanics and Service Technicians
+Installation, Maintenance, and Repair
+0.00% usage
+Quality Control Systems Managers
+Management
+0.00% usage
+Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders
+Production
+0.00% usage
+Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Glaziers
+Construction and Extraction
+0.00% usage
+Tire Repairers and Changers
+Installation, Maintenance, and Repair
+0.00% usage
+Adhesive Bonding Machine Operators and Tenders
+Production
+0.00% usage
+Recycling Coordinators
+Transportation and Material Moving
+0.00% usage
+Public Address System and Other Announcers
+Arts, Design, Entertainment, Sports, and Media
+0.00% usage
+Service Unit Operators, Oil, Gas, and Mining
+Construction and Extraction
+0.00% usage
+Speech-Language Pathology Assistants
+Healthcare Support
+0.00% usage
+Avionics Technicians
+Installation, Maintenance, and Repair
+0.00% usage
+Order Fillers, Wholesale and Retail Sales
+Office and Administrative Support
+0.00% usage
+Electrical and Electronic Equipment Assemblers
+Production
+0.00% usage
+Patternmakers, Metal and Plastic
+Production
+0.00% usage
+Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+Protective Service
+0.00% usage
+First-Line Supervisors of Aquacultural Workers
+Farming, Fishing, and Forestry
+0.00% usage
+Audiologists
+Healthcare Practitioners and Technical
+0.00% usage
+Physical Therapist Assistants
+Healthcare Support
+0.00% usage
+Environmental Restoration Planners
+Life, Physical, and Social Science
+0.00% usage
+Hydroelectric Production Managers
+Management
+0.00% usage
+Stone Cutters and Carvers, Manufacturing
+Production
+0.00% usage
+Fire-Prevention and Protection Engineers
+Architecture and Engineering
+0.00% usage
+Rough Carpenters
+Construction and Extraction
+0.00% usage
+Radio, Cellular, and Tower Equipment Installers and Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Etchers and Engravers
+Production
+0.00% usage
+Insurance Appraisers, Auto Damage
+Business and Financial Operations
+0.00% usage
+Tapers
+Construction and Extraction
+0.00% usage
+Emergency Medical Technicians and Paramedics
+Healthcare Practitioners and Technical
+0.00% usage
+Park Naturalists
+Life, Physical, and Social Science
+0.00% usage
+Administrative Services Managers
+Management
+0.00% usage
+Embalmers
+Personal Care and Service
+0.00% usage
+Refuse and Recyclable Material Collectors
+Transportation and Material Moving
+0.00% usage
+Materials Engineers
+Architecture and Engineering
+0.00% usage
+Aerospace Engineering and Operations Technicians
+Architecture and Engineering
+0.00% usage
+Fuel Cell Technicians
+Architecture and Engineering
+0.00% usage
+Geodetic Surveyors
+Architecture and Engineering
+0.00% usage
+Mapping Technicians
+Architecture and Engineering
+0.00% usage
+Marine Architects
+Architecture and Engineering
+0.00% usage
+Mechanical Drafters
+Architecture and Engineering
+0.00% usage
+Mining and Geological Engineers, Including Mining Safety Engineers
+Architecture and Engineering
+0.00% usage
+Petroleum Engineers
+Architecture and Engineering
+0.00% usage
+Product Safety Engineers
+Architecture and Engineering
+0.00% usage
+Solar Energy Systems Engineers
+Architecture and Engineering
+0.00% usage
+Surveying Technicians
+Architecture and Engineering
+0.00% usage
+Wind Energy Engineers
+Architecture and Engineering
+0.00% usage
+Dancers
+Arts, Design, Entertainment, Sports, and Media
+0.00% usage
+Floral Designers
+Arts, Design, Entertainment, Sports, and Media
+0.00% usage
+Janitors and Cleaners, Except Maids and Housekeeping Cleaners
+Building and Grounds Cleaning and Maintenance
+0.00% usage
+Pesticide Handlers, Sprayers, and Applicators, Vegetation
+Building and Grounds Cleaning and Maintenance
+0.00% usage
+Tree Trimmers and Pruners
+Building and Grounds Cleaning and Maintenance
+0.00% usage
+Farm Labor Contractors
+Business and Financial Operations
+0.00% usage
+Probation Officers and Correctional Treatment Specialists
+Community and Social Service
+0.00% usage
+Boilermakers
+Construction and Extraction
+0.00% usage
+Brickmasons and Blockmasons
+Construction and Extraction
+0.00% usage
+Carpet Installers
+Construction and Extraction
+0.00% usage
+Continuous Mining Machine Operators
+Construction and Extraction
+0.00% usage
+Derrick Operators, Oil and Gas
+Construction and Extraction
+0.00% usage
+Earth Drillers, Except Oil and Gas
+Construction and Extraction
+0.00% usage
+Elevator Installers and Repairers
+Construction and Extraction
+0.00% usage
+Explosives Workers, Ordnance Handling Experts, and Blasters
+Construction and Extraction
+0.00% usage
+Fence Erectors
+Construction and Extraction
+0.00% usage
+Floor Layers, Except Carpet, Wood, and Hard Tiles
+Construction and Extraction
+0.00% usage
+Floor Sanders and Finishers
+Construction and Extraction
+0.00% usage
+Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+Construction and Extraction
+0.00% usage
+Helpers--Carpenters
+Construction and Extraction
+0.00% usage
+Helpers--Electricians
+Construction and Extraction
+0.00% usage
+Helpers--Extraction Workers
+Construction and Extraction
+0.00% usage
+Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+Construction and Extraction
+0.00% usage
+Helpers--Roofers
+Construction and Extraction
+0.00% usage
+Highway Maintenance Workers
+Construction and Extraction
+0.00% usage
+Insulation Workers, Floor, Ceiling, and Wall
+Construction and Extraction
+0.00% usage
+Mine Cutting and Channeling Machine Operators
+Construction and Extraction
+0.00% usage
+Operating Engineers and Other Construction Equipment Operators
+Construction and Extraction
+0.00% usage
+Paperhangers
+Construction and Extraction
+0.00% usage
+Paving, Surfacing, and Tamping Equipment Operators
+Construction and Extraction
+0.00% usage
+Pile-Driver Operators
+Construction and Extraction
+0.00% usage
+Pipelayers
+Construction and Extraction
+0.00% usage
+Plasterers and Stucco Masons
+Construction and Extraction
+0.00% usage
+Rail-Track Laying and Maintenance Equipment Operators
+Construction and Extraction
+0.00% usage
+Reinforcing Iron and Rebar Workers
+Construction and Extraction
+0.00% usage
+Rock Splitters, Quarry
+Construction and Extraction
+0.00% usage
+Roof Bolters, Mining
+Construction and Extraction
+0.00% usage
+Rotary Drill Operators, Oil and Gas
+Construction and Extraction
+0.00% usage
+Roustabouts, Oil and Gas
+Construction and Extraction
+0.00% usage
+Segmental Pavers
+Construction and Extraction
+0.00% usage
+Septic Tank Servicers and Sewer Pipe Cleaners
+Construction and Extraction
+0.00% usage
+Solar Thermal Installers and Technicians
+Construction and Extraction
+0.00% usage
+Stonemasons
+Construction and Extraction
+0.00% usage
+Agricultural Equipment Operators
+Farming, Fishing, and Forestry
+0.00% usage
+Animal Breeders
+Farming, Fishing, and Forestry
+0.00% usage
+Fallers
+Farming, Fishing, and Forestry
+0.00% usage
+Farmworkers, Farm, Ranch, and Aquacultural Animals
+Farming, Fishing, and Forestry
+0.00% usage
+First-Line Supervisors of Logging Workers
+Farming, Fishing, and Forestry
+0.00% usage
+Fishers and Related Fishing Workers
+Farming, Fishing, and Forestry
+0.00% usage
+Forest and Conservation Workers
+Farming, Fishing, and Forestry
+0.00% usage
+Graders and Sorters, Agricultural Products
+Farming, Fishing, and Forestry
+0.00% usage
+Hunters and Trappers
+Farming, Fishing, and Forestry
+0.00% usage
+Log Graders and Scalers
+Farming, Fishing, and Forestry
+0.00% usage
+Logging Equipment Operators
+Farming, Fishing, and Forestry
+0.00% usage
+Dining Room and Cafeteria Attendants and Bartender Helpers
+Food Preparation and Serving Related
+0.00% usage
+Dishwashers
+Food Preparation and Serving Related
+0.00% usage
+Food Servers, Nonrestaurant
+Food Preparation and Serving Related
+0.00% usage
+Hearing Aid Specialists
+Healthcare Practitioners and Technical
+0.00% usage
+Nurse Anesthetists
+Healthcare Practitioners and Technical
+0.00% usage
+Ophthalmic Medical Technicians
+Healthcare Practitioners and Technical
+0.00% usage
+Ophthalmic Medical Technologists
+Healthcare Practitioners and Technical
+0.00% usage
+Opticians, Dispensing
+Healthcare Practitioners and Technical
+0.00% usage
+Oral and Maxillofacial Surgeons
+Healthcare Practitioners and Technical
+0.00% usage
+Orthotists and Prosthetists
+Healthcare Practitioners and Technical
+0.00% usage
+Physical Medicine and Rehabilitation Physicians
+Healthcare Practitioners and Technical
+0.00% usage
+Podiatrists
+Healthcare Practitioners and Technical
+0.00% usage
+Prosthodontists
+Healthcare Practitioners and Technical
+0.00% usage
+Radiologic Technologists
+Healthcare Practitioners and Technical
+0.00% usage
+Surgical Assistants
+Healthcare Practitioners and Technical
+0.00% usage
+Surgical Technologists
+Healthcare Practitioners and Technical
+0.00% usage
+Urologists
+Healthcare Practitioners and Technical
+0.00% usage
+Endoscopy Technicians
+Healthcare Support
+0.00% usage
+Medical Equipment Preparers
+Healthcare Support
+0.00% usage
+Orderlies
+Healthcare Support
+0.00% usage
+Phlebotomists
+Healthcare Support
+0.00% usage
+Physical Therapist Aides
+Healthcare Support
+0.00% usage
+Aircraft Mechanics and Service Technicians
+Installation, Maintenance, and Repair
+0.00% usage
+Automotive Body and Related Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Automotive Glass Installers and Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Bicycle Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Coin, Vending, and Amusement Machine Servicers and Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Control and Valve Installers and Repairers, Except Mechanical Door
+Installation, Maintenance, and Repair
+0.00% usage
+Electrical Power-Line Installers and Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Fabric Menders, Except Garment
+Installation, Maintenance, and Repair
+0.00% usage
+Geothermal Technicians
+Installation, Maintenance, and Repair
+0.00% usage
+Locksmiths and Safe Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Maintenance Workers, Machinery
+Installation, Maintenance, and Repair
+0.00% usage
+Manufactured Building and Mobile Home Installers
+Installation, Maintenance, and Repair
+0.00% usage
+Mechanical Door Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Medical Equipment Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Millwrights
+Installation, Maintenance, and Repair
+0.00% usage
+Motorboat Mechanics and Service Technicians
+Installation, Maintenance, and Repair
+0.00% usage
+Musical Instrument Repairers and Tuners
+Installation, Maintenance, and Repair
+0.00% usage
+Outdoor Power Equipment and Other Small Engine Mechanics
+Installation, Maintenance, and Repair
+0.00% usage
+Rail Car Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Refractory Materials Repairers, Except Brickmasons
+Installation, Maintenance, and Repair
+0.00% usage
+Riggers
+Installation, Maintenance, and Repair
+0.00% usage
+Signal and Track Switch Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Telecommunications Line Installers and Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Watch Repairers
+Installation, Maintenance, and Repair
+0.00% usage
+Wind Turbine Service Technicians
+Installation, Maintenance, and Repair
+0.00% usage
+Foresters
+Life, Physical, and Social Science
+0.00% usage
+Nuclear Equipment Operation Technicians
+Life, Physical, and Social Science
+0.00% usage
+Range Managers
+Life, Physical, and Social Science
+0.00% usage
+Biofuels Production Managers
+Management
+0.00% usage
+Biofuels/Biodiesel Technology and Product Development Managers
+Management
+0.00% usage
+Brownfield Redevelopment Specialists and Site Managers
+Management
+0.00% usage
+Industrial Production Managers
+Management
+0.00% usage
+Methane/Landfill Gas Collection System Operators
+Management
+0.00% usage
+Postmasters and Mail Superintendents
+Management
+0.00% usage
+Mail Clerks and Mail Machine Operators, Except Postal Service
+Office and Administrative Support
+0.00% usage
+Marking Clerks
+Office and Administrative Support
+0.00% usage
+Meter Readers, Utilities
+Office and Administrative Support
+0.00% usage
+Postal Service Mail Sorters, Processors, and Processing Machine Operators
+Office and Administrative Support
+0.00% usage
+Motion Picture Projectionists
+Personal Care and Service
+0.00% usage
+Nonfarm Animal Caretakers
+Personal Care and Service
+0.00% usage
+Slot Supervisors
+Personal Care and Service
+0.00% usage
+Biofuels Processing Technicians
+Production
+0.00% usage
+Biomass Plant Technicians
+Production
+0.00% usage
+Butchers and Meat Cutters
+Production
+0.00% usage
+Cabinetmakers and Bench Carpenters
+Production
+0.00% usage
+Chemical Equipment Operators and Tenders
+Production
+0.00% usage
+Chemical Plant and System Operators
+Production
+0.00% usage
+Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+Production
+0.00% usage
+Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Coil Winders, Tapers, and Finishers
+Production
+0.00% usage
+Cooling and Freezing Equipment Operators and Tenders
+Production
+0.00% usage
+Cutters and Trimmers, Hand
+Production
+0.00% usage
+Cutting and Slicing Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Dental Laboratory Technicians
+Production
+0.00% usage
+Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+Production
+0.00% usage
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Fabric and Apparel Patternmakers
+Production
+0.00% usage
+Fiberglass Laminators and Fabricators
+Production
+0.00% usage
+First-Line Supervisors of Production and Operating Workers
+Production
+0.00% usage
+Food Cooking Machine Operators and Tenders
+Production
+0.00% usage
+Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders
+Production
+0.00% usage
+Forging Machine Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Foundry Mold and Coremakers
+Production
+0.00% usage
+Furniture Finishers
+Production
+0.00% usage
+Gas Plant Operators
+Production
+0.00% usage
+Gem and Diamond Workers
+Production
+0.00% usage
+Glass Blowers, Molders, Benders, and Finishers
+Production
+0.00% usage
+Grinding and Polishing Workers, Hand
+Production
+0.00% usage
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Hydroelectric Plant Technicians
+Production
+0.00% usage
+Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Laundry and Dry-Cleaning Workers
+Production
+0.00% usage
+Layout Workers, Metal and Plastic
+Production
+0.00% usage
+Meat, Poultry, and Fish Cutters and Trimmers
+Production
+0.00% usage
+Medical Appliance Technicians
+Production
+0.00% usage
+Metal-Refining Furnace Operators and Tenders
+Production
+0.00% usage
+Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Mixing and Blending Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Model Makers, Metal and Plastic
+Production
+0.00% usage
+Nuclear Power Reactor Operators
+Production
+0.00% usage
+Ophthalmic Laboratory Technicians
+Production
+0.00% usage
+Packaging and Filling Machine Operators and Tenders
+Production
+0.00% usage
+Painters, Transportation Equipment
+Production
+0.00% usage
+Painting, Coating, and Decorating Workers
+Production
+0.00% usage
+Paper Goods Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Potters, Manufacturing
+Production
+0.00% usage
+Pourers and Casters, Metal
+Production
+0.00% usage
+Pressers, Textile, Garment, and Related Materials
+Production
+0.00% usage
+Print Binding and Finishing Workers
+Production
+0.00% usage
+Printing Press Operators
+Production
+0.00% usage
+Recycling and Reclamation Workers
+Production
+0.00% usage
+Rolling Machine Setters, Operators, and Tenders, Metal and Plastic
+Production
+0.00% usage
+Sawing Machine Setters, Operators, and Tenders, Wood
+Production
+0.00% usage
+Semiconductor Processors
+Production
+0.00% usage
+Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Sewers, Hand
+Production
+0.00% usage
+Sewing Machine Operators
+Production
+0.00% usage
+Shoe Machine Operators and Tenders
+Production
+0.00% usage
+Shoe and Leather Workers and Repairers
+Production
+0.00% usage
+Slaughterers and Meat Packers
+Production
+0.00% usage
+Solderers and Brazers
+Production
+0.00% usage
+Stationary Engineers and Boiler Operators
+Production
+0.00% usage
+Structural Metal Fabricators and Fitters
+Production
+0.00% usage
+Team Assemblers
+Production
+0.00% usage
+Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Tire Builders
+Production
+0.00% usage
+Tool Grinders, Filers, and Sharpeners
+Production
+0.00% usage
+Tool and Die Makers
+Production
+0.00% usage
+Upholsterers
+Production
+0.00% usage
+Water and Wastewater Treatment Plant and System Operators
+Production
+0.00% usage
+Welders, Cutters, and Welder Fitters
+Production
+0.00% usage
+Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+Production
+0.00% usage
+Woodworking Machine Setters, Operators, and Tenders, Except Sawing
+Production
+0.00% usage
+Bailiffs
+Protective Service
+0.00% usage
+Crossing Guards
+Protective Service
+0.00% usage
+Fire Inspectors
+Protective Service
+0.00% usage
+Fire Investigators
+Protective Service
+0.00% usage
+First-Line Supervisors of Correctional Officers
+Protective Service
+0.00% usage
+Forest Fire Inspectors and Prevention Specialists
+Protective Service
+0.00% usage
+Gaming Surveillance Officers and Gaming Investigators
+Protective Service
+0.00% usage
+Municipal Fire Fighting and Prevention Supervisors
+Protective Service
+0.00% usage
+Municipal Firefighters
+Protective Service
+0.00% usage
+Parking Enforcement Workers
+Protective Service
+0.00% usage
+Police Identification and Records Officers
+Protective Service
+0.00% usage
+Security Guards
+Protective Service
+0.00% usage
+Sheriffs and Deputy Sheriffs
+Protective Service
+0.00% usage
+Transit and Railroad Police
+Protective Service
+0.00% usage
+Gaming Change Persons and Booth Cashiers
+Sales and Related
+0.00% usage
+Models
+Sales and Related
+0.00% usage
+Aircraft Cargo Handling Supervisors
+Transportation and Material Moving
+0.00% usage
+Airline Pilots, Copilots, and Flight Engineers
+Transportation and Material Moving
+0.00% usage
+Ambulance Drivers and Attendants, Except Emergency Medical Technicians
+Transportation and Material Moving
+0.00% usage
+Aviation Inspectors
+Transportation and Material Moving
+0.00% usage
+Bridge and Lock Tenders
+Transportation and Material Moving
+0.00% usage
+Bus Drivers, Transit and Intercity
+Transportation and Material Moving
+0.00% usage
+Cleaners of Vehicles and Equipment
+Transportation and Material Moving
+0.00% usage
+Commercial Pilots
+Transportation and Material Moving
+0.00% usage
+Crane and Tower Operators
+Transportation and Material Moving
+0.00% usage
+Dredge Operators
+Transportation and Material Moving
+0.00% usage
+Excavating and Loading Machine and Dragline Operators
+Transportation and Material Moving
+0.00% usage
+Freight and Cargo Inspectors
+Transportation and Material Moving
+0.00% usage
+Gas Compressor and Gas Pumping Station Operators
+Transportation and Material Moving
+0.00% usage
+Hoist and Winch Operators
+Transportation and Material Moving
+0.00% usage
+Industrial Truck and Tractor Operators
+Transportation and Material Moving
+0.00% usage
+Laborers and Freight, Stock, and Material Movers, Hand
+Transportation and Material Moving
+0.00% usage
+Light Truck or Delivery Services Drivers
+Transportation and Material Moving
+0.00% usage
+Loading Machine Operators, Underground Mining
+Transportation and Material Moving
+0.00% usage
+Locomotive Engineers
+Transportation and Material Moving
+0.00% usage
+Locomotive Firers
+Transportation and Material Moving
+0.00% usage
+Machine Feeders and Offbearers
+Transportation and Material Moving
+0.00% usage
+Mates- Ship, Boat, and Barge
+Transportation and Material Moving
+0.00% usage
+Mine Shuttle Car Operators
+Transportation and Material Moving
+0.00% usage
+Motorboat Operators
+Transportation and Material Moving
+0.00% usage
+Packers and Packagers, Hand
+Transportation and Material Moving
+0.00% usage
+Pilots, Ship
+Transportation and Material Moving
+0.00% usage
+Pump Operators, Except Wellhead Pumpers
+Transportation and Material Moving
+0.00% usage
+Railroad Conductors and Yardmasters
+Transportation and Material Moving
+0.00% usage
+Sailors and Marine Oilers
+Transportation and Material Moving
+0.00% usage
+Ship Engineers
+Transportation and Material Moving
+0.00% usage
+Tank Car, Truck, and Ship Loaders
+Transportation and Material Moving
+0.00% usage
+Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation
+Transportation and Material Moving
+0.00% usage
+Wellhead Pumpers
+Transportation and Material Moving
+0.00% usage
